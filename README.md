@@ -18,7 +18,7 @@
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [DB 이관작업을 위한 셀레니움 크롤러](https://github.com/Magpie1000/ConfluenceCrawler) | [보고서 취합 자동화 ](https://github.com/Magpie1000/communicator_docx_merger) |
+| [DB 이관작업을 위한 셀레니움 크롤러](https://github.com/Magpie1000/ConfluenceCrawler) | [보고서 취합 자동화 프로그램](https://github.com/Magpie1000/communicator_docx_merger) |
 
 
 
@@ -56,10 +56,12 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=magpie1000)](https://solved.ac/magpie1000) 
 
+-------
+
 
 
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
-![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)
+![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
 <!--
 **Magpie1000/Magpie1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
