@@ -1,6 +1,4 @@
-### 🖥 [기술 블로그](https://programmer-565.tistory.com/) | 📑 이력서 (준비중)
-
-----
+## 🖥 [기술 블로그](https://programmer-565.tistory.com/) | 📑 이력서 (준비중)
 
 **문제를** **주도적으로 해결합니다**. 살면서 마주하는 크고 작은 문제들을 소통과 기획, 코드로 해결합니다.
 
@@ -14,9 +12,7 @@
 
 
 
-### 🎢 Sub-PJTs 
-
------
+## 🎢 Sub-PJTs 
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -32,18 +28,14 @@
 
 
 
-### ✔ Git stats
-
------
+## ✔ Git stats
 
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magpie1000)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magpie1000&layout=compact)](https://github.com/magpie1000/github-readme-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
 
-### 😎 Algorithm stats- with ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
----
+## 😎 Algorithm stats- with ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 
