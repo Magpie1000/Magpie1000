@@ -36,12 +36,14 @@
 
 
 
-### 😎 Algorithm stats
+### 😎 Algorithm stats- with ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
+
+
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=magpie1000)](https://solved.ac/magpie1000) - with ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=magpie1000)](https://solved.ac/magpie1000) 
 
 
 
