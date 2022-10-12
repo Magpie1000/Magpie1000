@@ -15,30 +15,21 @@
 
 
 
+### ✔ Git / BOJ stats
+
+-----
+
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magpie1000)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magpie1000&layout=compact)](https://github.com/magpie1000/github-readme-stats) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
 
-
-
-
-#### Co-op
-
-
-#### ETC
-
-
-<br>
-
-### Git / BOJ stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magpie1000)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=magpie1000)](https://solved.ac/magpie1000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magpie1000&layout=compact)](https://github.com/magpie1000/github-readme-stats)
 
 
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)
-
 
 <!--
 **Magpie1000/Magpie1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
