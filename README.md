@@ -1,6 +1,10 @@
-## 🖥 [기술 블로그](https://programmer-565.tistory.com/) | 📑 이력서 (준비중)
+## 🖥 [기술 블로그](https://programmer-565.tistory.com/) | 📑 이력서 (준비중) | 
 
-**문제를** **주도적으로 해결합니다**. 살면서 마주하는 크고 작은 문제들을 소통과 기획, 코드로 해결합니다.
+살면서 마주하는 크고 작은 문제들을 소통과 기획, 코드로 풀어내고 싶습니다.
+
+잘 부탁드립니다.
+
+
 
 ## 🛹 Projects
 
@@ -27,6 +31,16 @@
 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br/>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)<br/>![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)<br/>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) | ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)<br/>![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) <br />![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)<br/>![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) |
 
 
+
+## 🎨 이력 및 교육 사항
+
+| 실습 코치(7기)                                | 삼성 청년 소프트웨어 아카데미 (SSAFY)     |
+| --------------------------------------------- | ----------------------------------------- |
+| **2022.06 ~ 2022.11** (5개월)<br /> - 근무 중 |                                           |
+| **교육생**                                    | **삼성 청년 소프트웨어 아카데미 (SSAFY)** |
+| **2021.07 ~ 2021.06**  (12개월)               |                                           |
+
+​	
 
 ## ✔ Git stats
 
