@@ -1,5 +1,25 @@
-## Projects
-### 1. [Elden-lang](https://elden.link)
+## 🛹 Projects
+|                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [**SuperVision** - with Samsung Electronics](https://github.com/Magpie1000/SuperVision)<br /> 모바일 환경용 화상통화 AI 필터 | [**갓생살기**](https://github.com/Magpie1000/Godlife)<br />  라이프스타일 개선 플랫폼 |
+| 부팀장 \| 프레젠테이션 \| Front-end                          | 팀장 \| PM \| 기획 \| 홍보 \| Front-end                      |
+| [**Elden - Lang** (Toy)](https://github.com/Magpie1000/elden-lang)<br />2022년의 화제작, `엘든 링`을 모티프로 한 난해한 프로그래밍 언어<br /> [배포 페이지 링크](elden.link) | [**Newbit**](https://github.com/Magpie1000/Newbit)<br /> 기술 블로그 큐레이션 SNS |
+| 1인 개발 \| 기획 \| 홍보 \| 컴포넌트 설계 \| 배포            | 팀장 \| PM \| 기획 \| Front-end                              |
+| [**Bad Film Sommeliers** ](https://github.com/BadFilmSommeliers)<br />B급 영화 전문 추천 서비스 | [**Duty For Nurses**](https://github.com/Magpie1000/DutyForNurses)<br /> 종합병원 간호사 스케쥴 제작 프로그램. |
+| 팀장 \| 기획 \| 알고리즘 설계 \| 리팩토링                    | 알고리즘 설계 \| 모듈화                                      |
+
+
+
+### 🎢 Sub-PJTs 
+
+-----
+
+|                                                 |                                                        |
+| ----------------------------------------------- | ------------------------------------------------------ |
+| 이관작업을 위한 셀레니움 기반 크롤러            | 워드 행정 자동화                                       |
+| https://github.com/Magpie1000/ConfluenceCrawler | https://github.com/Magpie1000/communicator_docx_merger |
+
+
 
 <br>
 
@@ -15,7 +35,7 @@
 
 
 
-### ✔ Git / BOJ stats
+### ✔ Git stats
 
 -----
 
@@ -24,8 +44,14 @@
 
 
 
+### 😎 Algorithm stats
+
+---
+
+
+
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=magpie1000)](https://solved.ac/magpie1000)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=magpie1000)](https://solved.ac/magpie1000) - with ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 
