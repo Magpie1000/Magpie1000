@@ -1,3 +1,72 @@
+## 🏋🏼 About Me
+
+Hi! I’m Minu, a proactive Full-Stack software engineer with 2.5 years of experience. I’m passionate about solving both internal and client problems through clean code and clear communication. 
+
+Open Work Permit holder based in SK, Canada 🇨🇦
+
+
+## 🧗 Skills
+
+These are technologies I have used across professional work and personal projects.
+
+[![My Skills](https://skillicons.dev/icons?i=javascript,python,java,vue,vite,vuetify,bootstrap,mui,html,css,spring,mysql,postgresql,prometheus,grafana,aws,docker,kubernetes,&perline=5)](https://skillicons.dev)
+
+
+**Languages**: JavaScript, Python, Java
+
+[![My Skills](https://skillicons.dev/icons?i=javascript,python,java,&perline=5)](https://skillicons.dev)
+
+
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
++++ 자바 추가
+
+**Frontend**: SPA(Vue, vite), UI Frameworks(Vuetify, MUI, 
+Bootstrap), HTML/CSS, AgGrid
+
+![image](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![image](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![image](    https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+**Backend**:Spring Boot, SQL, RDB(MySQL, PostgreSQL)
+
+![image](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Cloud & Infrastructure**: Monitoring(Prometheus, Grafana, Loki), AWS, Docker, Kubernetes
+
+![image](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)
+![image](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
+![image](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![image](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+
+
+
+## 🦚 Some of My Proudest Achievements
+portfolio.. coming soon!
+
+
+## 🛹 Outside of Work
+I am a powerlifter of -60kg weightclass with a total of 350kg and 6 medals🏋🏼🥇 (one of them includes 2024 Korean Nationals!). I also love cooking for my family, before becoming an engineer I spent 3+ years as a fulltime chef.🧑‍🍳 I also like visiting bouldering gyms to solve problems physically.🧗
+
+
+## 🤝 Open For Work
+
+If you believe I could be a good fit for your team, or are also passionate about cloud/engineering, feel free to connect!
+
+Thank you for reading my profile! Hope you have an amazing day :D
+
+
+
+
+
+
+
 ## 🖥 [기술 블로그](https://programmer-565.tistory.com/) | 📑 이력서 (준비중) | 
 
 일상의 **작은 불편함들을** **소통**과 **기획**, **코드로 해결**하고 싶습니다.
