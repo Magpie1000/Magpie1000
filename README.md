@@ -7,45 +7,29 @@ Open Work Permit holder based in SK, Canada 🇨🇦
 
 ## 🧗 Skills
 
-These are technologies I have used across professional work and personal projects.
-
-[![My Skills](https://skillicons.dev/icons?i=javascript,python,java,vue,vite,vuetify,bootstrap,mui,html,css,spring,mysql,postgresql,prometheus,grafana,aws,docker,kubernetes,&perline=5)](https://skillicons.dev)
-
-
 **Languages**: JavaScript, Python, Java
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,python,java,&perline=5)](https://skillicons.dev)
+**Frontend**: Vue, Vite, Vuetify, MUI, Bootstrap, HTML/CSS, AgGrid 
 
+**Backend**: Spring Boot, SQL, RDB(MySQL, PostgreSQL)
+
+**Cloud & Infrastructure**: Monitoring(Prometheus, Grafana, Loki), AWS, Docker, Kubernetes
 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-+++ 자바 추가
-
-**Frontend**: SPA(Vue, vite), UI Frameworks(Vuetify, MUI, 
-Bootstrap), HTML/CSS, AgGrid
-
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 ![image](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![image](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
 ![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![image](    https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
-**Backend**:Spring Boot, SQL, RDB(MySQL, PostgreSQL)
-
 ![image](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Cloud & Infrastructure**: Monitoring(Prometheus, Grafana, Loki), AWS, Docker, Kubernetes
-
 ![image](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)
 ![image](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
 ![image](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![image](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-
-
 
 ## 🦚 Some of My Proudest Achievements
 portfolio.. coming soon!
