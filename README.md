@@ -32,12 +32,11 @@ Open Work Permit holder based in SK, Canada 🇨🇦
 ![image](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## 🦚 Some of My Proudest Achievements
-
-
 These are some of my proudest achievements from my work. 
 
-| **Wireless Network Quality Analysis Solution** | **Monitoring System for K8s, EKS, Docker and EC2** | **Samsung Software Academy** |
+|  <img width="221" height="27" alt="LIG Accuver Logo" src="https://github.com/user-attachments/assets/59d23a76-0486-4f2c-9b93-a85af6bfc11a" /> |  <img width="221" height="27" alt="LIG Accuver Logo" src="https://github.com/user-attachments/assets/80dca914-21c0-4536-94e2-01e68e0a1cb2" /> | <img width="221" height="170" alt="Samsung Software Academy Logo" src="https://github.com/user-attachments/assets/35a6062c-0f68-4e46-befc-2aa6e5bfb1b6" />  |
 | ----------------- | ------ | -------- |
+| **Wireless Network Quality Analysis Solution** | **Monitoring System for K8s, EKS, Docker and EC2** | **Samsung Software Academy** |
 | 111 | 2222 | 333 |
 
 
