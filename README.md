@@ -32,7 +32,13 @@ Open Work Permit holder based in SK, Canada 🇨🇦
 ![image](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## 🦚 Some of My Proudest Achievements
-portfolio.. coming soon!
+
+
+These are some of my proudest achievements from my work. 
+
+| **Wireless Network Quality Analysis Solution** | **Monitoring System for K8s, EKS, Docker and EC2** | **Samsung Software Academy** |
+| ----------------- | ------ | -------- |
+| 111 | 2222 | 333 |
 
 
 ## 🛹 Outside of Work
