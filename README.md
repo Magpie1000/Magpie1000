@@ -32,20 +32,36 @@ Open Work Permit holder based in SK, Canada 🇨🇦
 ![image](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## 🦚 Some of My Proudest Achievements
-These are some of my proudest achievements from my work. 
 
 |  <img width="221" height="27" alt="LIG Accuver Logo" src="https://github.com/user-attachments/assets/59d23a76-0486-4f2c-9b93-a85af6bfc11a" /> |  <img width="221" height="27" alt="LIG Accuver Logo" src="https://github.com/user-attachments/assets/80dca914-21c0-4536-94e2-01e68e0a1cb2" /> | <img width="221" height="170" alt="Samsung Software Academy Logo" src="https://github.com/user-attachments/assets/35a6062c-0f68-4e46-befc-2aa6e5bfb1b6" />  |
 | ----------------- | ------ | -------- |
 | **Wireless Network Quality Analysis Solution** | **Monitoring System for K8s, EKS, Docker and EC2** | **Samsung Software Academy** |
-| [View Portfolio](https://github.com/Magpie1000/Magpie1000/blob/master/XCAP-Cloud.md) | [View Portfolio](https://github.com/Magpie1000/Magpie1000/blob/master/Monitoring%20Systems.md) | [View Portfolio](https://github.com/Magpie1000/Magpie1000/blob/master/Samsung%20Software%20Academy.md) |
+| [View Project](https://github.com/Magpie1000/Magpie1000/blob/master/XCAP-Cloud.md) | [View Project](https://github.com/Magpie1000/Magpie1000/blob/master/Monitoring%20Systems.md) | [View Project](https://github.com/Magpie1000/Magpie1000/blob/master/Samsung%20Software%20Academy.md) |
 
 
 ## 🛹 Outside of Work
-I am a powerlifter of -60kg weightclass with a total of 350kg and 6 medals🏋🏼🥇 (one of them includes 2024 Korean Nationals!). I also love cooking for my family, before becoming an engineer I spent 3+ years as a fulltime chef.🧑‍🍳 I also like visiting bouldering gyms to solve problems physically.🧗
+I am a powerlifter in -60kg weightclass with a total of 350kg and 6 medals🏋🏼🥇 (one of them includes 2024 Korean Nationals!). I also love cooking for my family. 🧑‍🍳 Before becoming an engineer I spent 3+ years as a fulltime chef I also like visiting bouldering gyms to solve problems physically 🧗.
 
 
-## 🤝 Open For Work
+## 🤝 Open To Work 🇨🇦
 
 If you believe I could be a good fit for your team, or are also passionate about cloud/engineering, feel free to connect!
 
 Thank you for reading my profile! Hope you have an amazing day :D
+
+𝗜 𝗷𝘂𝘀𝘁 𝗺𝗼𝘃𝗲𝗱 𝘁𝗼 𝗦𝗮𝘀𝗸𝗮𝘁𝗼𝗼𝗻 🇨🇦 with my family and can’t wait to continue my software engineering career here!
+
+𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗼𝗽𝗲𝗻 𝘁𝗼:
+
+• Fullstack Engineer
+
+• Software Engineer
+
+• Frontend Engineer
+
+• Cloud Monitoring Engineer
+
+Roles both in Saskatoon and remote! (𝗢𝗽𝗲𝗻 𝗪𝗼𝗿𝗸 𝗣𝗲𝗿𝗺𝗶𝘁 𝗛𝗼𝗹𝗱𝗲𝗿) 
+
+If you believe I could be a good fit for your team, or are also passionate about cloud/engineering, feel free to connect!
+
