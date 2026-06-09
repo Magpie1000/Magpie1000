@@ -34,7 +34,7 @@ Open Work Permit holder based in SK, Canada 🇨🇦
 ## 🦚 Some of My Proudest Achievements
 
 |  <a href="https://www.ligaccuver.com/pages/eng/main.asp"> <img width="221" height="27" alt="LIG Accuver" src="https://github.com/user-attachments/assets/c31a1ad4-b9f9-4e4e-bb35-cb0c0703760c" /> </a> |  <a href="https://www.ligaccuver.com/pages/eng/main.asp"> <img width="221" height="27" alt="LIG Accuver" src="https://github.com/user-attachments/assets/c31a1ad4-b9f9-4e4e-bb35-cb0c0703760c" /> </a> | <a href="https://csr.samsung.com/en/program/samsung-sw-academy-for-youth"> <img width="221" height="170" alt="Samsung Software Academy Logo" src="https://github.com/user-attachments/assets/35a6062c-0f68-4e46-befc-2aa6e5bfb1b6" /> </a>  |
-| ----------------- | ------ | -------- |
+| :-----------: | :------: | :--------: |
 | **Developing and Maintaining $1.1M CAD Wireless Network Solutions for 2 Enterprise Clients (100% Retention Rate)** | **Building a SaaS-Ready Monitoring System for LIG Accuver ($186M CAD Revenue)** | **From Top 3% Graduate to Software Engineering Coach at a Samsung-Funded, Government-Supported Academy** |
 | [View Project](https://github.com/Magpie1000/Magpie1000/blob/master/XCAP-Cloud.md) | [View Project](https://github.com/Magpie1000/Magpie1000/blob/master/Monitoring%20Systems.md) | [View Project](https://github.com/Magpie1000/Magpie1000/blob/master/Samsung%20Software%20Academy.md) |
 
