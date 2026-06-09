@@ -1,5 +1,7 @@
-# Developing and Maintaining Wireless Network Quality Analysis Solution
+# Developing and Maintaining $1.1M CAD Wireless Network Solutions for 2 Enterprise Clients (100% Retention Rate)
 ## Project Summary
+<a href="https://www.ligaccuver.com/pages/eng/main.asp"> <img width="221" height="27" alt="LIG Accuver" src="https://github.com/user-attachments/assets/c31a1ad4-b9f9-4e4e-bb35-cb0c0703760c" /> </a> 
+
 Served as Full-Stack engineer in LIG Accuver, 3 major on-premise client projects ($1.1M CAD/year), developing and maintaining customized solutions for 2 leading mobile carriers in Korea. 
 
 | Metric                         | Result                      | Impact                                                                                                         |
