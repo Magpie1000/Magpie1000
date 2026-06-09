@@ -37,7 +37,7 @@ These are some of my proudest achievements from my work.
 |  <img width="221" height="27" alt="LIG Accuver Logo" src="https://github.com/user-attachments/assets/59d23a76-0486-4f2c-9b93-a85af6bfc11a" /> |  <img width="221" height="27" alt="LIG Accuver Logo" src="https://github.com/user-attachments/assets/80dca914-21c0-4536-94e2-01e68e0a1cb2" /> | <img width="221" height="170" alt="Samsung Software Academy Logo" src="https://github.com/user-attachments/assets/35a6062c-0f68-4e46-befc-2aa6e5bfb1b6" />  |
 | ----------------- | ------ | -------- |
 | **Wireless Network Quality Analysis Solution** | **Monitoring System for K8s, EKS, Docker and EC2** | **Samsung Software Academy** |
-| [View Portfolio](https://github.com/Magpie1000/Magpie1000/blob/master/XCAP-Cloud.md) | [View Portfolio](https://github.com/Magpie1000/Magpie1000/blob/master/XCAP-Cloud) | [View Portfolio](https://github.com/Magpie1000/Magpie1000/blob/master/Samsung%20Software%20Academy) |
+| [View Portfolio](https://github.com/Magpie1000/Magpie1000/blob/master/XCAP-Cloud.md) | [View Portfolio](https://github.com/Magpie1000/Magpie1000/blob/master/Monitoring%20Systems.md) | [View Portfolio](https://github.com/Magpie1000/Magpie1000/blob/master/Samsung%20Software%20Academy.md) |
 
 
 ## 🛹 Outside of Work
