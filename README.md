@@ -45,23 +45,15 @@ I am a powerlifter in -60kg weightclass with a total of 350kg and 6 medals🏋�
 
 ## 🤝 Open To Work 🇨🇦
 
+**I just moved to Saskatoon 🇨🇦** with my family and can’t wait to continue my software engineering career here!
+**I'm currently open to:**
+* Fullstack Engineer
+* Software Engineer
+* Frontend Engineer
+* Cloud Monitoring Engineer
+
+Roles both in Saskatoon and remote! (**Open Work Permit Holder**) 
+
 If you believe I could be a good fit for your team, or are also passionate about cloud/engineering, feel free to connect!
 
 Thank you for reading my profile! Hope you have an amazing day :D
-
-𝗜 𝗷𝘂𝘀𝘁 𝗺𝗼𝘃𝗲𝗱 𝘁𝗼 𝗦𝗮𝘀𝗸𝗮𝘁𝗼𝗼𝗻 🇨🇦 with my family and can’t wait to continue my software engineering career here!
-
-𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗼𝗽𝗲𝗻 𝘁𝗼:
-
-• Fullstack Engineer
-
-• Software Engineer
-
-• Frontend Engineer
-
-• Cloud Monitoring Engineer
-
-Roles both in Saskatoon and remote! (𝗢𝗽𝗲𝗻 𝗪𝗼𝗿𝗸 𝗣𝗲𝗿𝗺𝗶𝘁 𝗛𝗼𝗹𝗱𝗲𝗿) 
-
-If you believe I could be a good fit for your team, or are also passionate about cloud/engineering, feel free to connect!
-
