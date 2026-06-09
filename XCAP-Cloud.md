@@ -1,31 +1,48 @@
 # Developing and Maintaining $1.1M CAD Wireless Network Solutions for 2 Enterprise Clients (100% Retention Rate)
 ## Project Summary
-<a href="https://www.ligaccuver.com/pages/eng/main.asp"> <img width="221" height="27" alt="LIG Accuver" src="https://github.com/user-attachments/assets/c31a1ad4-b9f9-4e4e-bb35-cb0c0703760c" /> </a> 
+<a href="https://www.ligaccuver.com/pages/eng/main.asp"> <img width="221" height="27" alt="LIG Accuver" src="https://github.com/user-attachments/assets/c31a1ad4-b9f9-4e4e-bb35-cb0c0703760c" /> </a>
 
-Served as Full-Stack engineer in LIG Accuver, 3 major on-premise client projects ($1.1M CAD/year), developing and maintaining customized solutions for 2 leading mobile carriers in Korea. 
+From 2023 to 2025, I served as the sole **Full-Stack engineer** at **LIG Accuver**, developing and maintaining customized solutions for **3 major on-premise client projects totalling $1.1M CAD/year.** 
 
-| Metric                         | Result                      | Impact                                                                                                         |
-| ------------------------------ | --------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| **$1.1M / year**               | **Revenue**                 | served as sole full-stack developer for 3 projects of $1.1M CAD/year for 2 leading mobile carriers in Korea    |
-| **2 + years**                  | **0 complaints**            | Handeled 3 projects for 2 years without any complaints.                                                        |
-| **100% Client retention rate** | **2 Major mobile carieers** | Acieved 100% client retention rate with successfully developing and maintaining 3 projects with no complaints. |
+The clients were 2 leading mobile carriers in Korea:  
+- **SK Telecom** (approximately **$16.6B CAD** in 2025 annual revenue)
+- **KT Corporation** (approximately **$27.5B CAD** in 2025 annual revenue)
+
+Both first became LIG Accuver clients in 2020.
+
+| Metric           | Impact                                                     |
+| ---------------- | ---------------------------------------------------------- |
+| **$1.1M / year** | Recurring yearly revenue from projects                     |
+| **2 + years**    | Project lengths, with 0 complaints and 100% retention rate |
+
 
 ## Background
-[LIG Accuver](https://www.ligaccuver.com/pages/eng/main.asp) is wireless network testing and analysis company that generated approximately CAD 186 million in revenue in 2025. It provides software solutions to major mobile carieers in Korea, North America and Europe, for measuring, analyzing, and visualizing mobile network performance. 
+[LIG Accuver](https://www.ligaccuver.com/pages/eng/main.asp) is wireless network testing and analysis company that generated approximately **$186M CAD in revenue in 2025.** It provides software solutions to major mobile carriers in Korea, North America and Europe used for measuring, analyzing, and visualizing mobile network performance. 
 
-**XCAP / XCAP-Cloud** was the project platform I worked on at LIG Accuver. It is a web-based post-processing system that helps telecom engineers analyze wireless network measurement data, visualize test results, and troubleshoot network failures through charts, maps, tables, reports, and detailed log analysis.
-<img width="3259" height="2475" alt="image" src="https://github.com/user-attachments/assets/29cebb3f-82dc-4129-9d3e-cc8103958cde" />
+XCAP is one of LIG Accuver’s most popular software solutions. 
+
+It is a web or cloud-based post-processing system that helps telecom engineers analyze wireless network data, visualize test results, and troubleshoot network failures through charts, maps, tables, reports, and detailed log analyses.
+
+<a href="https://www.ligaccuver.com/pages/eng/product_view.asp?sPCate=1&sGCate=7&sPSeq=18"> <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/29cebb3f-82dc-4129-9d3e-cc8103958cde" /></a>
 
 [Demo Video of XCAP-Cloud](https://youtu.be/soPRkdRXi0g?si=9xyGWG3Y6Rg-kxIT)
 
 ## My Role / Responsibilities 
 
-My main responsibility in XCAP / XCAP-Cloud was developing and maintaining the data visualization module for large-scale wireless network datasets. I built features that allowed users to create, edit, and run custom data queries through a GUI-based interface, without needing to manually write complex query statements.
+My main responsibility was developing and maintaining the data visualization modules for large-scale wireless network datasets, with the goal of providing high-quality personalized solutions that keep SK Telecom and KT coporation as ongoing LIG Accuver clients.
+<a href="https://www.ligaccuver.com/pages/eng/product_view.asp?sPCate=1&sGCate=7&sPSeq=18"> <img width="1168" height="319" alt="image" src="https://github.com/user-attachments/assets/3e78ebae-e924-4dc6-9777-993dc6b02e58" /></a>
 
-The queried results were then visualized through interactive charts and graphs, helping telecom engineers analyze network performance trends, compare test results, and identify abnormal patterns more efficiently. This reduced the need for manual data extraction and made complex network data easier to understand for both technical and non-technical users.
+### Dashboard
 
-<img width="1696" height="947" alt="image" src="https://github.com/user-attachments/assets/2da3a839-ac82-47be-b552-c585e6ce1425" />
+The Dashboard feature allows users to save, manage, and monitor measurement data through various chart types. Users can configure dashboard presets, including conditions such as data collection period, target datasets, and visualization settings, then reuse those presets for repeated analysis.
 
+This makes it easier for engineers to track key network metrics, compare measurement results, and manage frequently used analysis views without rebuilding the same charts manually.
+
+### AI Analysis
+
+The AI Analysis feature provides a pivot-table-like query interface that allows users to create analysis queries more easily. Instead of manually writing complex SQL, users can select fields, define grouping conditions, apply aggregate functions, and organize analysis results through a GUI-based interface.
+
+This feature helps users generate custom statistical analysis queries more efficiently and makes large-scale network data exploration more accessible to engineers who may not be comfortable writing SQL directly.
 
 
 ## Tech Stack
