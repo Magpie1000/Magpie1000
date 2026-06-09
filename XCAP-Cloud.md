@@ -1,5 +1,5 @@
-# Building and Maintaining 4 Big-data monitoring software for 
-## Project summary
+# Developing and Maintaining Wireless Network Quality Analysis Solution
+## Project Summary
 Served as Full-Stack engineer in LIG Accuver, 3 major on-premise client projects ($1.1M CAD/year), developing and maintaining customized solutions for 2 leading mobile carriers in Korea. 
 
 | Metric                         | Result                      | Impact                                                                                                         |
@@ -26,7 +26,7 @@ The queried results were then visualized through interactive charts and graphs, 
 
 
 
-## Tech stack
+## Tech Stack
 
 | Stack                    | Summary                                                                                                                                                                              |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -44,7 +44,7 @@ The system used a Vue.js frontend, a Spring Boot backend, PostgreSQL for metadat
 Users created and modified analysis queries through the Vue-based GUI. The Spring Boot backend managed user information, project settings, query metadata, and visualization settings in PostgreSQL. When users executed a query, the backend sent the generated query to the company’s internal XDB system, which processed large-scale wireless network datasets and returned the analysis results. The frontend then visualized those results through interactive charts, graphs, and tables.
 
 
-## Action
+## Actions
 ### Development Highlights 
 
 More coming...
