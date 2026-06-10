@@ -1,5 +1,6 @@
 # SaaS Enablement & Monitoring System for XCAP-Cloud
 ## Project summary
+<a href="https://www.ligaccuver.com/pages/eng/main.asp"> <img width="221" height="27" alt="LIG Accuver" src="https://github.com/user-attachments/assets/c31a1ad4-b9f9-4e4e-bb35-cb0c0703760c" /> </a> 
 
 Served as a DevOps / Cloud Monitoring engineer in a LIG Accuver's company-wide task force to prepare XCAP-Cloud for SaaS and cloud-based deployment.
 
