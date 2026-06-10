@@ -25,7 +25,7 @@ It is a web or cloud-based post-processing system that helps telecom engineers a
 
 <a href="https://www.ligaccuver.com/pages/eng/product_view.asp?sPCate=1&sGCate=7&sPSeq=18"> <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/29cebb3f-82dc-4129-9d3e-cc8103958cde" /></a>
 
-[Demo Video of XCAP-Cloud](https://youtu.be/soPRkdRXi0g?si=9xyGWG3Y6Rg-kxIT)
+<p align="center"> <a href="https://youtu.be/soPRkdRXi0g?si=9xyGWG3Y6Rg-kxIT"><strong>Demo Video of XCAP-Cloud</strong></a> </p>
 
 ## My Role / Responsibilities 
 
@@ -39,7 +39,7 @@ My main responsibility was developing and maintaining the data visualization mod
 | **Javacscipt / Vue**     | Developed GUI-based query builder and data visualization features, allowing users to create, modify, and execute analysis queries without manually writing complex query statements. |
 | **Java / Spring boot**   | Built backend APIs for managing users, project settings, query metadata, and analysis result delivery.                                                                               |
 | **PostgreSQL / MyBatis** | Stored and retrieved metadata such as user information, query configurations, and visualization settings.                                                                            |
-| **AgGrid / HiChart**     | Implemented interactive tables, charts, and graphs to visualize large-scale wireless network analysis results returned from the internal XDB system.                                 |
+| **AgGrid / HighChart**     | Implemented interactive tables, charts, and graphs to visualize large-scale wireless network analysis results returned from the internal XDB system.                                 |
 
 
 ## System Context
