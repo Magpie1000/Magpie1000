@@ -99,11 +99,10 @@ More coming...
 
 ## Results
 
-| Metric                         | Result                      | Impact                                                                                                         |
-| ------------------------------ | --------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| **$1.1M / year**               | **Revenue**                 | served as sole full-stack developer for 3 projects of $1.1M CAD/year for 2 leading mobile carriers in Korea    |
-| **2 + years**                  | **0 complaints**            | Handeled 3 projects for 2 years without any complaints.                                                        |
-| **100% Client retention rate** | **2 Major mobile carieers** | Acieved 100% client retention rate with successfully developing and maintaining 3 projects with no complaints. |
+| Metric           | Impact                                                     |
+| ---------------- | ---------------------------------------------------------- |
+| **$1.1M / year** | Recurring yearly revenue from projects                     |
+| **2 + years**    | Project lengths, with 0 complaints and 100% retention rate |
 
 ## ENGINEERING SKILLS IMPROVED
 - Improved maintainability in a legacy Vue.js codebase while continuing to deliver new features.
