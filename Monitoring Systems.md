@@ -4,14 +4,15 @@
 
 From 2023 to 2024, I served as a DevOps / Cloud Monitoring engineer in a **LIG Accuver's company-wide task force** to prepare XCAP for **SaaS and cloud-based deployment**.
 
-| Metric                  | Result                                             | Impact                                                                                                                                                                                                                   |
-| ----------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **33%**                 | **AWS cost reduction**                             | Used Kubecost to identify Kubernetes resource usage and cost optimization opportunities, helping reduce unnecessary AWS spending for the XCAP-Cloud EKS environment.                                                     |
-| **$1.8M CAD projects**  | **Monitoring system reviewed for operational use** | Built an observability system that was reviewed as the monitoring foundation for projects worth approximately CAD 1.8M, covering performance monitoring, log monitoring, cost visibility, and troubleshooting workflows. |
-| **5 internal seminars** | **Technical sharing and demos**                    | Helped SE, Cloud TF, and other teams understand how to use the monitoring stack for troubleshooting and operation.                                                                                                       |
-| **6**                   | **A-to-Z technical guides**                        | Reduced onboarding friction by documenting monitoring setup, dashboard usage, log investigation, and operational workflows.                                                                                              |
 
 
+
+| Metric                                                               | Impact                                                                                                                                                                                                                   |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **33% AWS cost reduction**                                           | Used Kubecost to identify Kubernetes resource usage and cost optimization opportunities, helping reduce unnecessary AWS spending for the XCAP-Cloud EKS environment.                                                     |
+| **$1.8M CAD projects reviewd Monitoring system for operational use** | Built an observability system that was reviewed as the monitoring foundation for projects worth approximately CAD 1.8M, covering performance monitoring, log monitoring, cost visibility, and troubleshooting workflows. |
+| **5 internal seminars including demos and hands-on session**         | Helped System Engineers, Cloud Task Force, and other teams understand how to use the monitoring stack for troubleshooting and operation.                                                                                 |
+| **6 A-to-Z technical guides**                                        | Reduced onboarding friction by documenting monitoring setup, dashboard usage, log investigation, and operational workflows.                                                                                              |
 
 ## Background
 
@@ -74,12 +75,12 @@ More to come...
 
 ## Result
 
-| Metric                  | Result                                             | Impact                                                                                                                                                                                                                   |
-| ----------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **33%**                 | **AWS cost reduction**                             | Used Kubecost to identify Kubernetes resource usage and cost optimization opportunities, helping reduce unnecessary AWS spending for the XCAP-Cloud EKS environment.                                                     |
-| **$1.8M CAD projects**  | **Monitoring system reviewed for operational use** | Built an observability system that was reviewed as the monitoring foundation for projects worth approximately CAD 1.8M, covering performance monitoring, log monitoring, cost visibility, and troubleshooting workflows. |
-| **5 internal seminars** | **Technical sharing and demos**                    | Helped SE, Cloud TF, and other teams understand how to use the monitoring stack for troubleshooting and operation.                                                                                                       |
-| **6**                   | **A-to-Z technical guides**                        | Reduced onboarding friction by documenting monitoring setup, dashboard usage, log investigation, and operational workflows.                                                                                              |
+| Metric                                                               | Impact                                                                                                                                                                                                                   |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **33% AWS cost reduction**                                           | Used Kubecost to identify Kubernetes resource usage and cost optimization opportunities, helping reduce unnecessary AWS spending for the XCAP-Cloud EKS environment.                                                     |
+| **$1.8M CAD projects reviewd Monitoring system for operational use** | Built an observability system that was reviewed as the monitoring foundation for projects worth approximately CAD 1.8M, covering performance monitoring, log monitoring, cost visibility, and troubleshooting workflows. |
+| **5 internal seminars including demos and hands-on session**         | Helped System Engineers, Cloud Task Force, and other teams understand how to use the monitoring stack for troubleshooting and operation.                                                                                 |
+| **6 A-to-Z technical guides**                                        | Reduced onboarding friction by documenting monitoring setup, dashboard usage, log investigation, and operational workflows.                                                                                              |
 
 ## Takeaways
 
