@@ -2,26 +2,30 @@
 ## Project Summary
 <a href="https://www.ligaccuver.com/pages/eng/main.asp"> <img width="221" height="27" alt="LIG Accuver" src="https://github.com/user-attachments/assets/c31a1ad4-b9f9-4e4e-bb35-cb0c0703760c" /> </a> 
 
-Served as a DevOps / Cloud Monitoring engineer in a LIG Accuver's company-wide task force to prepare XCAP-Cloud for SaaS and cloud-based deployment.
+From 2023 to 2024, I served as a DevOps / Cloud Monitoring engineer in a **LIG Accuver's company-wide task force** to prepare XCAP for **SaaS and cloud-based deployment**.
 
-**The goal** of the task force was to make the **existing XCAP-Cloud platform deployable across multiple infrastructure environments**, including AWS EKS, on-premise Kubernetes, Docker-based deployments, and EC2. 
+| Metric                  | Result                                             | Impact                                                                                                                                                                                                                   |
+| ----------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **33%**                 | **AWS cost reduction**                             | Used Kubecost to identify Kubernetes resource usage and cost optimization opportunities, helping reduce unnecessary AWS spending for the XCAP-Cloud EKS environment.                                                     |
+| **$1.8M CAD projects**  | **Monitoring system reviewed for operational use** | Built an observability system that was reviewed as the monitoring foundation for projects worth approximately CAD 1.8M, covering performance monitoring, log monitoring, cost visibility, and troubleshooting workflows. |
+| **5 internal seminars** | **Technical sharing and demos**                    | Helped SE, Cloud TF, and other teams understand how to use the monitoring stack for troubleshooting and operation.                                                                                                       |
+| **6**                   | **A-to-Z technical guides**                        | Reduced onboarding friction by documenting monitoring setup, dashboard usage, log investigation, and operational workflows.                                                                                              |
 
-| Metric                         | Result                      | Impact                                                                                                         |
-| ------------------------------ | --------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| **$1.1M / year**               | **Revenue**                 | served as sole full-stack developer for 3 projects of $1.1M CAD/year for 2 leading mobile carriers in Korea    |
-| **2 + years**                  | **0 complaints**            | Handeled 3 projects for 2 years without any complaints.                                                        |
-| **100% Client retention rate** | **2 Major mobile carieers** | Acieved 100% client retention rate with successfully developing and maintaining 3 projects with no complaints. |
+
 
 ## Background
-### LIG Accuver
-[LIG Accuver](https://www.ligaccuver.com/pages/eng/main.asp) is wireless network testing and analysis company that generated approximately CAD 186 million in revenue in 2025. It provides software solutions to major mobile carieers in Korea, North America and Europe, for measuring, analyzing, and visualizing mobile network performance. 
 
-### XCAP-Cloud
-**XCAP-Cloud** was the project platform I worked on at LIG Accuver. It is a web-based post-processing system that helps telecom engineers analyze wireless network measurement data, visualize test results, and troubleshoot network failures through charts, maps, tables, reports, and detailed log analysis.
+[**LIG Accuver**](https://www.ligaccuver.com/pages/eng/main.asp) is wireless network testing and analysis company that generated approximately **$186M CAD in revenue in 2025.** It provides software solutions to major mobile carriers in Korea, North America and Europe used for measuring, analyzing, and visualizing mobile network performance. 
 
-<img width="3259" height="2475" alt="XCAP" src="https://github.com/user-attachments/assets/0a73b1cc-1837-4780-a415-a08e28014347" />
+XCAP is one of LIG Accuver’s most popular software solutions. 
 
-[Demo video of XCAP-Cloud](https://youtu.be/soPRkdRXi0g?si=9xyGWG3Y6Rg-kxIT)
+It is a web or cloud-based post-processing system that helps telecom engineers analyze wireless network data, visualize test results, and troubleshoot network failures through charts, maps, tables, reports, and detailed log analyses.
+
+**The goal** of the task force was to make the **existing XCAP-Cloud platform deployable across multiple infrastructure environments**, including **AWS EKS, on-premise Kubernetes, Docker-based deployments, and EC2**. 
+
+<a href="https://www.ligaccuver.com/pages/eng/product_view.asp?sPCate=1&sGCate=7&sPSeq=18"> <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/29cebb3f-82dc-4129-9d3e-cc8103958cde" /></a>
+
+<p align="center"> <a href="https://youtu.be/soPRkdRXi0g?si=9xyGWG3Y6Rg-kxIT"><strong>Demo Video of XCAP-Cloud</strong></a> </p>
 
 ## My Role / Responsibilities
 My main responsibility was to build a monitoring system for XCAP-Cloud across four deployment environments: AWS EKS, on-premise Kubernetes, Docker, and EC2.
