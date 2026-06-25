@@ -80,23 +80,19 @@ I designed and configured monitoring components to collect infrastructure metric
 * Created **2 practical usage manuals** and delivered **2 architecture guide sessions** covering Docker-based and Kubernetes-based monitoring models.
 * Standardized Helm chart versions and environment-specific settings to improve deployment consistency and reduce installation issues.
 
+##### 여기에 프레젠테이션 사진 추가
 
-### Q4 2024 — Monitoring Stack Optimization and Cost Visibility
-
-* Migrated Kubernetes monitoring components to more suitable Helm chart versions to improve availability, stability, scalability, and multi-cluster readiness.
-
-* Upgraded and adjusted Helm chart configurations **4 times** to handle compatibility issues, operational requirements, and future expansion.
-
-* Installed and operated **Kubecost** to provide Kubernetes cost visibility and support AWS cost optimization.
-
-* Added guidance for monitoring additional AWS resources such as **EBS and RDS**, including metric access steps and required stack setup.
-
-* Implemented Grafana provisioning to make dashboard and monitoring configuration management more consistent and reproducible.
-
-* Documented troubleshooting cases, setup decisions, and operational rules in internal guides for future maintenance.
+### Q4 2024 — Automated Grafana Setup, Removed 1 Developer Standby, and Reduced AWS Costs by 33%
+* Automated Grafana initial setup, eliminating **1 developer standby requirement** during late-night installations and saving approximately **2 hours per setup** through automated user creation, dashboard provisioning, and configuration.
+* Reduced AWS costs by **33%**, from approximately **$990 to $660**, by installing and operating **Kubecost** for Kubernetes cost visibility.
+* Delivered **2 additional hands-on sessions** to help engineers use Grafana dashboards, investigate logs, and follow monitoring workflows.
+* Reduced Helm chart configuration YAML from approximately **200 lines to 65 lines** by simplifying values and removing unnecessary settings.
+* Created **6 A-to-Z monitoring manuals** and documented **4 troubleshooting cases** for future maintenance.
+* Migrated and upgraded Kubernetes monitoring Helm charts to improve availability, stability, scalability, and multi-cluster readiness.
 
 
-More to come...
+##### 여기에 프레젠테이션 사진 추가
+
 
 https://docs.google.com/presentation/d/1nV7nl2ik3LvQdGOb05OGBLeqbxMuGhPVFgi4tUe-0XY/edit?usp=sharing
 
