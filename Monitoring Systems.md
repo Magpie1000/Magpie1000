@@ -4,9 +4,6 @@
 
 From 2023 to 2024, I served as a DevOps / Cloud Monitoring engineer in a **LIG Accuver's company-wide task force** to prepare XCAP for **SaaS and cloud-based deployment**.
 
-
-
-
 | Metric                                                               | Impact                                                                                                                                                                                                                   |
 | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **33% AWS cost reduction**                                           | Used Kubecost to identify Kubernetes resource usage and cost optimization opportunities, helping reduce unnecessary AWS spending for the XCAP-Cloud EKS environment.                                                     |
@@ -33,7 +30,7 @@ My main responsibility was to build a monitoring system for XCAP-Cloud across fo
 
 I designed and configured monitoring components to collect infrastructure metrics, application metrics, container status, logs, and resource usage data. The monitoring system helped developers and operators understand whether the platform was running correctly, identify failures more quickly, and compare operational behavior across different deployment environments.
 
-## Tech stack
+## Tech Stack
 
 | Stack                           | Summary                                                                                                              |
 | ------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
@@ -57,37 +54,32 @@ I designed and configured monitoring components to collect infrastructure metric
 * Created **6 A-to-Z technical guides** covering monitoring setup, dashboard usage, log investigation, performance analysis, alert configuration, Kubecost, and AWS EBS metrics.
 
 ## Actions
-### Q1 2024 — Research and Monitoring Stack Selection
+### Q1 2024 — Compared 3 Monitoring Stacks and Delivered 3 Technical Presentations
 
-* Researched monitoring stack options for SaaS operation, including metric monitoring, log monitoring, cost monitoring, and dashboard visualization.
+* Compared **3 monitoring stack options** — ELK/EFK, PLG, and AWS CloudWatch — and delivered **3 technical presentations** to support Cloud TF stack selection.
+* Evaluated each option across **8 criteria**: metrics, logs, dashboards, alerts, scalability, operational complexity, documentation quality, and cost.
+* Recommended **PLG** as the main monitoring direction after identifying **25–70% potential cost savings** compared with EFK, along with cloud-native architecture, Helm-based setup, horizontal scalability, and unified metric/log monitoring.
+    * Researched AWS CloudWatch as a managed alternative, covering **7 AWS services/features** — Container Insights, Logs, SNS, Lambda, EventBridge, dashboards, and alerts — with an estimated monthly cost of approximately **$150**.
 
-* Compared open-source monitoring tools based on maintainability, update frequency, documentation quality, compatibility, and operational reliability.
+##### 여기에 프레젠테이션 사진 추가
 
-* Tested exporters and monitoring components to evaluate metric accuracy, installation behavior, and compatibility with existing infrastructure.
+### Q2 2024 — Built 1 PLG Prototype, Validated 4 Workflows, Delivered 2 Hands-On Sessions
+* Built the first working **Docker-compose PLG monitoring prototype** and deployed it to **2 internal test servers** for validation.
+* Reduced manual troubleshooting work for the System Engineering team by **replacing direct server log inspection** **with Grafana/Loki-based log search, filtering, and dashboard workflows**.
+  * Proved the prototype across **4 core workflows**: metric collection, log collection, dashboard access, and troubleshooting.
+* Delivered **2 hands-on usage guide sessions** for Cloud TF and System Engineering, helping other teams test the prototype and learn Grafana/Loki-based monitoring workflows.
+    * Collected **2 weeks of user feedback** and improved dashboard usability, documentation, and troubleshooting guidance.
 
-* Presented monitoring stack selection findings and helped define the direction for the company-wide Cloud TF monitoring system.
+##### 여기에 프레젠테이션 사진 추가
 
-### Q2 2024 — Docker / EC2 Monitoring System and Usage Guides
+### Q3 2024 — Expanded PLG Monitoring Across 4 Environment Types and Validated 12 Test Runs Without Unexpected AWS Cost Issues
 
-* Built Docker-compose-based metric and log monitoring workflows for server and VM-based deployment environments.
+* **Deployed and stabilized** PLG monitoring across **AWS EKS, EC2, on-premise RKE2, and 4 internal servers** without unexpected AWS cost issues.
+* **Validated Docker-based monitoring** through **12 load/performance test runs** on **4 on-premise 256GB RAM servers**, including **two-day weekend testing sessions**.
+* Applied **5 feedback-based usability improvements** from the Q2 prototype review.
+* Created **2 practical usage manuals** and delivered **2 architecture guide sessions** covering Docker-based and Kubernetes-based monitoring models.
+* Standardized Helm chart versions and environment-specific settings to improve deployment consistency and reduce installation issues.
 
-* Configured Grafana dashboards to visualize server metrics, application logs, resource usage, and operational status.
-
-* Created usage guides for Grafana dashboards, log analysis, and performance monitoring so other engineers could follow the workflow without direct support.
-
-* Delivered internal seminars and demos to help System Engineers and Cloud TF members understand how to use the monitoring stack.
-
-### Q3 2024 — Kubernetes Monitoring System and Dashboard Improvements
-
-* Built monitoring support for both **AWS EKS** and **on-premise Kubernetes / RKE2** environments.
-
-* Configured Prometheus, Grafana, Loki, exporters, and related Kubernetes monitoring components using Helm charts.
-
-* Improved the Grafana main dashboard based on feedback so users could check cluster status at a glance.
-
-* Added dashboard labels and depth information to help engineers understand which dashboard to use for each troubleshooting scenario.
-
-* Improved Docker-compose and Kubernetes monitoring guides based on user questions, feedback, and real troubleshooting cases.
 
 ### Q4 2024 — Monitoring Stack Optimization and Cost Visibility
 
