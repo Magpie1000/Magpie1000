@@ -46,12 +46,14 @@ I designed and configured monitoring components to collect infrastructure metric
 
 
 ## Development & Maintenance Highlights
-
-* Built a SaaS-ready observability system across **4 major deployment environments**: **AWS EKS**, on-premise **Kubernetes**, **Docker-based servers**, and **EC2**.
-* Implemented metric, log, and cost monitoring workflows using **Prometheus, Grafana, Loki, Kubecost, Helm, and docker-compose**.
-* Supported **33% AWS cost reduction** by using Kubecost to identify Kubernetes resource usage and cost optimization opportunities.
-* Delivered **5 internal seminars** with demos and hands-on explanations for System Engineers, Cloud TF members, and related teams.
-* Created **6 A-to-Z technical guides** covering monitoring setup, dashboard usage, log investigation, performance analysis, alert configuration, Kubecost, and AWS EBS metrics.
+* Automated **Grafana initial setup**, including user creation, dashboard provisioning, and repeated configuration work, **removing the need for developer standby during late-night installations**.
+* Reduced Helm chart configuration YAML from approximately **200 lines to 65 lines** by simplifying values and removing unnecessary settings.
+* Compared **3 monitoring stack options** — ELK/EFK, PLG, and AWS CloudWatch — across **8 criteria** and selected PLG as the main monitoring direction.
+* Built a **Docker-compose PLG prototype** and validated **4 core workflows**: metric collection, log collection, dashboard access, and troubleshooting.
+* Expanded PLG monitoring across **AWS EKS, EC2, on-premise RKE2, and 4 internal servers** while keeping AWS costs predictable.
+* Validated Docker-based monitoring through **12 load/performance test runs** on **4 on-premise 256GB RAM servers**.
+* **Replaced manual log inspection** with **Grafana/Loki-based log search, filtering, and dashboard workflows** for System Engineering.
+* Created **6 A-to-Z monitoring manuals**, documented **4 troubleshooting cases**, and delivered **6 hands-on / architecture guide sessions**.
 
 ## Actions
 ### Q1 2024 — Compared 3 Monitoring Stacks and Delivered 3 Technical Presentations
