@@ -48,8 +48,60 @@ I designed and configured monitoring components to collect infrastructure metric
 | **Kubecost**                    | Helped monitor Kubernetes resource usage and cloud cost visibility for EKS-based environments.                       |
 
 
-## Action
-### Development Highlights 
+## Development & Maintenance Highlights
+
+* Built a SaaS-ready observability system across **4 major deployment environments**: **AWS EKS**, on-premise **Kubernetes**, **Docker-based servers**, and **EC2**.
+* Implemented metric, log, and cost monitoring workflows using **Prometheus, Grafana, Loki, Kubecost, Helm, and docker-compose**.
+* Supported **33% AWS cost reduction** by using Kubecost to identify Kubernetes resource usage and cost optimization opportunities.
+* Delivered **5 internal seminars** with demos and hands-on explanations for System Engineers, Cloud TF members, and related teams.
+* Created **6 A-to-Z technical guides** covering monitoring setup, dashboard usage, log investigation, performance analysis, alert configuration, Kubecost, and AWS EBS metrics.
+
+## Actions
+### Q1 2024 — Research and Monitoring Stack Selection
+
+* Researched monitoring stack options for SaaS operation, including metric monitoring, log monitoring, cost monitoring, and dashboard visualization.
+
+* Compared open-source monitoring tools based on maintainability, update frequency, documentation quality, compatibility, and operational reliability.
+
+* Tested exporters and monitoring components to evaluate metric accuracy, installation behavior, and compatibility with existing infrastructure.
+
+* Presented monitoring stack selection findings and helped define the direction for the company-wide Cloud TF monitoring system.
+
+### Q2 2024 — Docker / EC2 Monitoring System and Usage Guides
+
+* Built Docker-compose-based metric and log monitoring workflows for server and VM-based deployment environments.
+
+* Configured Grafana dashboards to visualize server metrics, application logs, resource usage, and operational status.
+
+* Created usage guides for Grafana dashboards, log analysis, and performance monitoring so other engineers could follow the workflow without direct support.
+
+* Delivered internal seminars and demos to help System Engineers and Cloud TF members understand how to use the monitoring stack.
+
+### Q3 2024 — Kubernetes Monitoring System and Dashboard Improvements
+
+* Built monitoring support for both **AWS EKS** and **on-premise Kubernetes / RKE2** environments.
+
+* Configured Prometheus, Grafana, Loki, exporters, and related Kubernetes monitoring components using Helm charts.
+
+* Improved the Grafana main dashboard based on feedback so users could check cluster status at a glance.
+
+* Added dashboard labels and depth information to help engineers understand which dashboard to use for each troubleshooting scenario.
+
+* Improved Docker-compose and Kubernetes monitoring guides based on user questions, feedback, and real troubleshooting cases.
+
+### Q4 2024 — Monitoring Stack Optimization and Cost Visibility
+
+* Migrated Kubernetes monitoring components to more suitable Helm chart versions to improve availability, stability, scalability, and multi-cluster readiness.
+
+* Upgraded and adjusted Helm chart configurations **4 times** to handle compatibility issues, operational requirements, and future expansion.
+
+* Installed and operated **Kubecost** to provide Kubernetes cost visibility and support AWS cost optimization.
+
+* Added guidance for monitoring additional AWS resources such as **EBS and RDS**, including metric access steps and required stack setup.
+
+* Implemented Grafana provisioning to make dashboard and monitoring configuration management more consistent and reproducible.
+
+* Documented troubleshooting cases, setup decisions, and operational rules in internal guides for future maintenance.
 
 
 More to come...
@@ -60,13 +112,6 @@ https://docs.google.com/presentation/d/1qDeYAhviwo_KtIIOGKnNgqAm_ps_gTjju8yCiThx
 
 https://docs.google.com/presentation/d/1hXU2GqlQA9wcMu_3B68KOMODap8HBsRyI53MrW25J2I/edit?usp=sharing
 
-
-
-
-
-### Maintenance and Optimization Highlights
-
-More to come...
 
 <img width="1468" height="676" alt="image" src="https://github.com/user-attachments/assets/b7afe9b7-3da9-4021-95ab-1ef294d82e23" />
 
