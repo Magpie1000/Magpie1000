@@ -55,6 +55,11 @@ I designed and configured monitoring components to collect infrastructure metric
 * **Replaced manual log inspection** with **Grafana/Loki-based log search, filtering, and dashboard workflows** for System Engineering.
 * Created **6 A-to-Z monitoring manuals**, documented **4 troubleshooting cases**, and delivered **6 hands-on / architecture guide sessions**.
 
+| Deployment Environment | Kubernetes-Based Monitoring | Docker Compose-Based Monitoring |
+| --- | --- | --- |
+| **Cloud** | **AWS EKS**<br>staging server | **AWS EC2**<br>servers from global proviers |
+| **On-premise** | **RKE2**<br>On-premise Kubernetes environment | **Internal servers**<br>internal test servers |
+
 ## Actions
 ### Q1 2024 — Compared 3 Monitoring Stacks and Delivered 3 Technical Presentations
 
@@ -62,8 +67,13 @@ I designed and configured monitoring components to collect infrastructure metric
 * Evaluated each option across **8 criteria**: metrics, logs, dashboards, alerts, scalability, operational complexity, documentation quality, and cost.
 * Recommended **PLG** as the main monitoring direction after identifying **25–70% potential cost savings** compared with EFK, along with cloud-native architecture, Helm-based setup, horizontal scalability, and unified metric/log monitoring.
     * Researched AWS CloudWatch as a managed alternative, covering **7 AWS services/features** — Container Insights, Logs, SNS, Lambda, EventBridge, dashboards, and alerts — with an estimated monthly cost of approximately **$150**.
-
-##### 여기에 프레젠테이션 사진 추가
+<p align="center">
+   <img width="1320" height="419" alt="image" src="https://github.com/user-attachments/assets/02cc470f-5a10-4f23-b809-c56af0715b2a" />
+</p>
+<p align="center">
+  <b>Left:</b> EFK vs. PLG comparison — selected PLG for 25–70% potential cost savings, unified metric/log monitoring and cloud-native scalability.<br>
+  <b>Right:</b> AWS CloudWatch review — evaluated managed AWS monitoring flow using EKS, CloudWatch, SNS, Lambda, and alert delivery.
+</p>
 
 ### Q2 2024 — Built 1 PLG Prototype, Validated 4 Workflows, Delivered 2 Hands-On Sessions
 * Built the first working **Docker-compose PLG monitoring prototype** and deployed it to **2 internal test servers** for validation.
@@ -72,7 +82,12 @@ I designed and configured monitoring components to collect infrastructure metric
 * Delivered **2 hands-on usage guide sessions** for Cloud TF and System Engineering, helping other teams test the prototype and learn Grafana/Loki-based monitoring workflows.
     * Collected **2 weeks of user feedback** and improved dashboard usability, documentation, and troubleshooting guidance.
 
-##### 여기에 프레젠테이션 사진 추가
+<p align="center">
+   <img width="700" alt="image" src="https://github.com/user-attachments/assets/a9f11d0b-d0b4-4062-b4f6-0046152f7fdb" />
+</p>
+<p align="center">
+  <b>Docker-based PLG prototype architecture:</b> Prometheus for metrics, Loki for logs, and Grafana for visualization.
+</p>
 
 ### Q3 2024 — Expanded PLG Monitoring Across 4 Environment Types and Validated 12 Test Runs Without Unexpected AWS Cost Issues
 
@@ -82,7 +97,12 @@ I designed and configured monitoring components to collect infrastructure metric
 * Created **2 practical usage manuals** and delivered **2 architecture guide sessions** covering Docker-based and Kubernetes-based monitoring models.
 * Standardized Helm chart versions and environment-specific settings to improve deployment consistency and reduce installation issues.
 
-##### 여기에 프레젠테이션 사진 추가
+<img width="1046" height="492" alt="image" src="https://github.com/user-attachments/assets/d921c63d-bf7b-463d-8217-5abea21555e9" />
+<p align="center">
+  <b>Before:</b> Default Grafana home screen made it unclear which dashboard to open or what cluster status to check first.<br>
+  <b>After:</b> Customized main dashboard shows key metrics immediately, including CPU/RAM usage, pod status, scheduling failures, container crashes, and system errors.
+</p>
+
 
 ### Q4 2024 — Automated Grafana Setup, Removed 1 Developer Standby, and Reduced AWS Costs by 33%
 * Automated Grafana initial setup, eliminating **1 developer standby requirement** during late-night installations and saving approximately **2 hours per setup** through automated user creation, dashboard provisioning, and configuration.
@@ -92,19 +112,11 @@ I designed and configured monitoring components to collect infrastructure metric
 * Created **6 A-to-Z monitoring manuals** and documented **4 troubleshooting cases** for future maintenance.
 * Migrated and upgraded Kubernetes monitoring Helm charts to improve availability, stability, scalability, and multi-cluster readiness.
 
+<img width="1007" height="497" alt="image" src="https://github.com/user-attachments/assets/665e5559-7ab0-4902-9094-c6db36a04e23" />
+<p align="center"><b>[Dashboards] Completed dashboard for Kubernetes monitoring </b></p>
 
-##### 여기에 프레젠테이션 사진 추가
-
-
-https://docs.google.com/presentation/d/1nV7nl2ik3LvQdGOb05OGBLeqbxMuGhPVFgi4tUe-0XY/edit?usp=sharing
-
-https://docs.google.com/presentation/d/1qDeYAhviwo_KtIIOGKnNgqAm_ps_gTjju8yCiThxF9g/edit?usp=sharing
-
-https://docs.google.com/presentation/d/1hXU2GqlQA9wcMu_3B68KOMODap8HBsRyI53MrW25J2I/edit?usp=sharing
-
-
-<img width="1468" height="676" alt="image" src="https://github.com/user-attachments/assets/b7afe9b7-3da9-4021-95ab-1ef294d82e23" />
-
+<img width="1286" height="578" alt="image" src="https://github.com/user-attachments/assets/c4eaf977-3d7f-4a12-8496-302aa29aef1f" />
+<p align="center"><b>[Guide Documents] A-to-Z monitoring guides and troubleshooting documents created for long-term maintenance.</b></p>
 
 
 
