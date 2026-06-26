@@ -106,7 +106,7 @@ I designed and configured monitoring components to collect infrastructure metric
 
 ### Q4 2024 — Automated Grafana Setup, Removed 1 Developer Standby, and Reduced AWS Costs by 33%
 * Automated Grafana initial setup, eliminating **1 developer standby requirement** during late-night installations and saving approximately **2 hours per setup** through automated user creation, dashboard provisioning, and configuration.
-* Reduced AWS costs by **33%**, from approximately **$990 to $660**, by installing and operating **Kubecost** for Kubernetes cost visibility.
+* Reduced AWS costs by **33%**, from approximately **$990 to $660 per month**, by installing and operating **Kubecost** for Kubernetes cost visibility.
 * Delivered **2 additional hands-on sessions** to help engineers use Grafana dashboards, investigate logs, and follow monitoring workflows.
 * Reduced Helm chart configuration YAML from approximately **200 lines to 65 lines** by simplifying values and removing unnecessary settings.
 * Created **6 A-to-Z monitoring manuals** and documented **4 troubleshooting cases** for future maintenance.
