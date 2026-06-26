@@ -129,7 +129,7 @@ I designed and configured monitoring components to collect infrastructure metric
 | **5 internal seminars including demos and hands-on session**         | Helped System Engineers, Cloud Task Force, and other teams understand how to use the monitoring stack for troubleshooting and operation.                                                                                 |
 | **6 A-to-Z technical guides**                                        | Reduced onboarding friction by documenting monitoring setup, dashboard usage, log investigation, and operational workflows.                                                                                              |
 
-## Takeaways
+## Engineering Skill Improved
 
 - Learned how to design observability for real production systems across different infrastructure environments.
     - Built monitoring support for AWS EKS, on-premise Kubernetes, Docker, and EC2 deployment cases.
