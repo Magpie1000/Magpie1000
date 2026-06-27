@@ -13,11 +13,11 @@ Both first became LIG Accuver clients in 2020.
 | Metric           | Impact                                                     |
 | ---------------- | ---------------------------------------------------------- |
 | **$1.1M / year** | Recurring yearly revenue from projects                     |
-| **2 + years**    | Project lengths, with 0 complaints and 100% retention rate |
+| **2+ years**    | Project lengths, with 0 complaints and 100% retention rate |
 
 
 ## Background
-[LIG Accuver](https://www.ligaccuver.com/pages/eng/main.asp) is wireless network testing and analysis company that generated approximately **$186M CAD in revenue in 2025.** It provides software solutions to major mobile carriers in Korea, North America and Europe used for measuring, analyzing, and visualizing mobile network performance. 
+[LIG Accuver](https://www.ligaccuver.com/pages/eng/main.asp) is a wireless network testing and analysis company that generated approximately **$186M CAD in revenue in 2025.** It provides software solutions to major mobile carriers in Korea, North America and Europe used for measuring, analyzing, and visualizing mobile network performance. 
 
 XCAP is one of LIG Accuver’s most popular software solutions. 
 
@@ -36,10 +36,10 @@ My main responsibility was developing and maintaining the data visualization mod
 
 | Stack                    | Summary                                                                                                                                                                              |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Javacscipt / Vue**     | Developed GUI-based query builder and data visualization features, allowing users to create, modify, and execute analysis queries without manually writing complex query statements. |
-| **Java / Spring boot**   | Built backend APIs for managing users, project settings, query metadata, and analysis result delivery.                                                                               |
+| **JavaScipt / Vue**     | Developed GUI-based query builder and data visualization features, allowing users to create, modify, and execute analysis queries without manually writing complex query statements. |
+| **Java / Spring Boot**   | Built backend APIs for managing users, project settings, query metadata, and analysis result delivery.                                                                               |
 | **PostgreSQL / MyBatis** | Stored and retrieved metadata such as user information, query configurations, and visualization settings.                                                                            |
-| **AgGrid / HighChart**     | Implemented interactive tables, charts, and graphs to visualize large-scale wireless network analysis results returned from the internal XDB system.                                 |
+| **AgGrid / Highcharts**     | Implemented interactive tables, charts, and graphs to visualize large-scale wireless network analysis results returned from the internal XDB system.                                 |
 
 
 ## System Context
@@ -73,7 +73,7 @@ I was primarily responsible for developing and improving these two core XCAP fea
 * The queried results can be reviewed in tables and exported as CSV files or images for reporting, helping engineers move from high-level monitoring to detailed analysis and documentation.
 * This made deeper network data exploration more accessible and reduced the need for manual query writing, repeated data extraction, and developer support.
 
-## Development & Maintainance Highlights
+## Development & Maintenance Highlights
 - Worked closely for **2 years** with the client-facing lead who managed direct communication with both enterprise clients, **helping maintain zero client complaints through clear documentation, fast issue resolution, and reliable delivery**.
 - Delivered **15 major/customized features across 210 tickets** from 2023 to 2025, covering GUI query building, SaaS integration, and SMAP AI customization.
 - Reduced major legacy code areas by **60–75%**, including **4,000 → 1,000 lines**, **3,000 → 1,000 lines**, and **1,000 → 300 lines** refactors.
@@ -91,7 +91,7 @@ I was primarily responsible for developing and improving these two core XCAP fea
 	- **Removed 200 redundant lines** from a cross-team integration while preserving functionality.
 
 ### Jun 2023 to Dec 2023: 5 Major Features / Building the Core GUI Query Builder
-* The next request was to add **5 major features(80 tickets)** that **allowed users to create, edit, and run custom data queries through a GUI-based interface**, without needing to manually write complex query statements.
+* The next request was to add **5 major features (80 tickets)** that **allowed users to create, edit, and run custom data queries through a GUI-based interface**, without needing to manually write complex query statements.
     - Reworked a **4,000-line legacy page** into 7 reusable modules, **reducing it to approximately 1,000 lines**. 
     - **Implemented drag-and-drop field selection, resizable split-pane layouts, and filter-condition builders to help users configure complex queries through the UI.**
 	    - Integrated **Split.js, Ag-Grid, and drag-and-drop UI libraries** while resolving layout and interaction conflicts between third-party components.
@@ -103,7 +103,7 @@ I was primarily responsible for developing and improving these two core XCAP fea
 * **Completed 4 features**(50 tickets) as advanced enhancements for the GUI-based Query builder, **including UI customization, preset save/load, and preset validation**.
 * Developed unsupported UI behaviors through custom Ag-Grid workarounds after investigating **30,000+ lines of open source code**.
 - **Eliminated a manual restart step** **by adding preset error-detection logic** that alerted users when saved configurations no longer matched modified tables.
-- **Improve readability and maintainability by** **refactoring** semi-hard-coded configuration logic from **3,000 lines to 1,000 lines** by separating reusable modules and shared constants.
+- **Improved readability and maintainability by** **refactoring** semi-hard-coded configuration logic from **3,000 lines to 1,000 lines** by separating reusable modules and shared constants.
 
 ### From Jul to Dec 2024: 3 Major Features / SaaS Migration Support and Cross-Team API Stabilization
 - Refactored legacy on-premise API integrations for **5 existing XCAP features/modules**, restoring stable behavior for the cloud-based SaaS version.
@@ -112,7 +112,7 @@ I was primarily responsible for developing and improving these two core XCAP fea
 - **Stabilized cross-team API integrations** by resolving undocumented parameters, table changes, and legacy compatibility issues.
  
 ### From Aug 2024 to Jul 2025: 6 Major Features / Customizing Features for Client with $16.6B CAD Annual Revenue in 2025
-- Completed **80 tickets** to customize existing XCAP features and develop **6 new SMAP AI features** for SK Telecom(approximately **$16.6B CAD** in 2025 annual revenue).
+- Completed **80 tickets** to customize existing XCAP features and develop **6 new SMAP AI features** for SK Telecom (approximately **$16.6B CAD** in 2025 annual revenue).
 - Built Ag-Grid and Highcharts-based visualization features by customizing queries across **4–6 big-data tables** without JOIN support, allowing users to view accurate mobile network measurement insights.
 - Reduced follow-up revision requests by approximately **80%**, from **3–4 per feature to 0–1**, by documenting feature behavior, edge cases, and design intent.
 - Maintained **zero client complaints**, reduced meeting time from **1.5–2 hours to 30 minutes–1 hour**, and **cut follow-up revision requests by** approximately **80%** through clear feature documentation and client-facing communication.
@@ -123,7 +123,7 @@ I was primarily responsible for developing and improving these two core XCAP fea
 | Metric           | Impact                                                     |
 | ---------------- | ---------------------------------------------------------- |
 | **$1.1M / year** | Recurring yearly revenue from projects                     |
-| **2 + years**    | Project lengths, with 0 complaints and 100% retention rate |
+| **2+ years**    | Project lengths, with 0 complaints and 100% retention rate |
 
 ## ENGINEERING SKILLS IMPROVED
 - Improved maintainability in a legacy Vue.js codebase while continuing to deliver new features.
