@@ -1,10 +1,10 @@
-# Building a SaaS-Ready Monitoring System for LIG Accuver($186M CAD Revenue in 2025)
+# Building a SaaS-Ready Monitoring System for LIG Accuver ($186M CAD Revenue in 2025)
 ## Project Summary
 <a href="https://www.ligaccuver.com/pages/eng/main.asp"> <img width="221" height="27" alt="LIG Accuver" src="https://github.com/user-attachments/assets/c31a1ad4-b9f9-4e4e-bb35-cb0c0703760c" /> </a> 
 
 From 2023 to 2024, I served as a DevOps / Cloud Monitoring engineer in a **LIG Accuver's company-wide Cloud Task Force** to prepare XCAP for **SaaS and cloud-based deployment**.
 
-The Cloud Task Force consisted of 12 LIG Accuver members across Frontend Engineer, Backend Engineer, Dev Ops engineer, and System Engineer. 
+The Cloud Task Force consisted of 12 LIG Accuver members across Frontend Engineer, Backend Engineer, DevOps engineer, and System Engineer. 
 
 The goal of the task force was to make the existing XCAP-Cloud platform deployable across multiple infrastructure environments, including AWS EKS, on-premise Kubernetes, Docker-based deployments, and EC2.
 
@@ -16,13 +16,13 @@ Making XCAP-Cloud deployable across varied infrastructures would both reduce the
 | Metric                                                               | Impact                                                                                                                                                                                                                   |
 | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **33% AWS cost reduction**                                           | Used Kubecost to identify Kubernetes resource usage and cost optimization opportunities, helping reduce unnecessary AWS spending for the XCAP-Cloud EKS environment.                                                     |
-| **$1.8M CAD projects reviewd Monitoring system for operational use** | Built an observability system that was reviewed as the monitoring foundation for projects worth approximately CAD 1.8M, covering performance monitoring, log monitoring, cost visibility, and troubleshooting workflows. |
+| **$1.8M CAD projects reviewed Monitoring system for operational use** | Built an observability system that was reviewed as the monitoring foundation for projects worth approximately CAD 1.8M, covering performance monitoring, log monitoring, cost visibility, and troubleshooting workflows. |
 | **5 internal seminars including demos and hands-on session**         | Helped System Engineers, Cloud Task Force, and other teams understand how to use the monitoring stack for troubleshooting and operation.                                                                                 |
 | **6 A-to-Z technical guides**                                        | Reduced onboarding friction by documenting monitoring setup, dashboard usage, log investigation, and operational workflows.                                                                                              |
 
 ## Background
 
-[**LIG Accuver**](https://www.ligaccuver.com/pages/eng/main.asp) is wireless network testing and analysis company that generated approximately **$186M CAD in revenue in 2025.** It provides software solutions to major mobile carriers in Korea, North America and Europe used for measuring, analyzing, and visualizing mobile network performance. 
+[**LIG Accuver**](https://www.ligaccuver.com/pages/eng/main.asp) is a wireless network testing and analysis company that generated approximately **$186M CAD in revenue in 2025.** It provides software solutions to major mobile carriers in Korea, North America and Europe used for measuring, analyzing, and visualizing mobile network performance. 
 
 XCAP is one of LIG Accuver’s most popular software solutions. 
 
@@ -66,7 +66,7 @@ I designed and configured monitoring components to collect infrastructure metric
 
 | Deployment Environment | Kubernetes-Based Monitoring | Docker Compose-Based Monitoring |
 | --- | --- | --- |
-| **Cloud** | **AWS EKS**<br>staging server | **AWS EC2**<br>servers from global proviers |
+| **Cloud** | **AWS EKS**<br>staging server | **AWS EC2**<br>servers from global providers |
 | **On-premises** | **RKE2**<br>On-premises Kubernetes environment | **Internal servers**<br>internal test servers |
 
 ## Actions
@@ -134,11 +134,11 @@ I designed and configured monitoring components to collect infrastructure metric
 | Metric                                                               | Impact                                                                                                                                                                                                                   |
 | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **33% AWS cost reduction**                                           | Used Kubecost to identify Kubernetes resource usage and cost optimization opportunities, helping reduce unnecessary AWS spending for the XCAP-Cloud EKS environment.                                                     |
-| **$1.8M CAD projects reviewd Monitoring system for operational use** | Built an observability system that was reviewed as the monitoring foundation for projects worth approximately CAD 1.8M, covering performance monitoring, log monitoring, cost visibility, and troubleshooting workflows. |
+| **$1.8M CAD projects reviewed Monitoring system for operational use** | Built an observability system that was reviewed as the monitoring foundation for projects worth approximately CAD 1.8M, covering performance monitoring, log monitoring, cost visibility, and troubleshooting workflows. |
 | **5 internal seminars including demos and hands-on session**         | Helped System Engineers, Cloud Task Force, and other teams understand how to use the monitoring stack for troubleshooting and operation.                                                                                 |
 | **6 A-to-Z technical guides**                                        | Reduced onboarding friction by documenting monitoring setup, dashboard usage, log investigation, and operational workflows.                                                                                              |
 
-## Engineering Skill Improved
+## Engineering Skills Improved
 
 - Learned how to design observability for real production systems across different infrastructure environments.
     - Built monitoring support for AWS EKS, on-premises Kubernetes, Docker, and EC2 deployment cases.
