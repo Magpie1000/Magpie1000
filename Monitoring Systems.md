@@ -19,14 +19,14 @@ XCAP is one of LIG Accuver’s most popular software solutions. 
 
 It is a web or cloud-based post-processing system that helps telecom engineers analyze wireless network data, visualize test results, and troubleshoot network failures through charts, maps, tables, reports, and detailed log analyses.
 
-**The goal** of the task force was to make the **existing XCAP-Cloud platform deployable across multiple infrastructure environments**, including **AWS EKS, on-premise Kubernetes, Docker-based deployments, and EC2**. 
+**The goal** of the Cloud Task Force was to make the **existing XCAP-Cloud platform deployable across multiple infrastructure environments**, including **AWS EKS, on-premises Kubernetes, Docker-based deployments, and EC2**. 
 
 <a href="https://www.ligaccuver.com/pages/eng/product_view.asp?sPCate=1&sGCate=7&sPSeq=18"> <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/29cebb3f-82dc-4129-9d3e-cc8103958cde" /></a>
 
 <p align="center"> <a href="https://youtu.be/soPRkdRXi0g?si=9xyGWG3Y6Rg-kxIT"><strong>Demo Video of XCAP-Cloud</strong></a> </p>
 
 ## My Role / Responsibilities
-My main responsibility was to build a monitoring system for XCAP-Cloud across four deployment environments: AWS EKS, on-premise Kubernetes, Docker, and EC2.
+My main responsibility was to build a monitoring system for XCAP-Cloud across four deployment environments: AWS EKS, on-premises Kubernetes, Docker, and EC2.
 
 I designed and configured monitoring components to collect infrastructure metrics, application metrics, container status, logs, and resource usage data. The monitoring system helped developers and operators understand whether the platform was running correctly, identify failures more quickly, and compare operational behavior across different deployment environments.
 
@@ -35,7 +35,7 @@ I designed and configured monitoring components to collect infrastructure metric
 | Stack                           | Summary                                                                                                              |
 | ------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | **AWS EKS**                     | Supported cloud-native deployment and monitoring for XCAP-Cloud on managed Kubernetes infrastructure.                |
-| **On-premise Kubernetes(RKE2)** | Built monitoring support for Kubernetes clusters running in customer-controlled or internal on-premise environments. |
+| **On-premises Kubernetes(RKE2)** | Built monitoring support for Kubernetes clusters running in customer-controlled or internal on-premises environments. |
 | **Docker / EC2**                | Supported containerized and VM-based deployment cases outside Kubernetes environments.                               |
 | **Prometheus**                  | Collected infrastructure, container, and application metrics across different deployment environments.               |
 | **Grafana**                     | Built dashboards to visualize system health, resource usage, application status, and operational metrics.            |
@@ -50,15 +50,15 @@ I designed and configured monitoring components to collect infrastructure metric
 * Reduced Helm chart configuration YAML from approximately **200 lines to 65 lines** by simplifying values and removing unnecessary settings.
 * Compared **3 monitoring stack options** — ELK/EFK, PLG, and AWS CloudWatch — across **8 criteria** and selected PLG as the main monitoring direction.
 * Built a **Docker-compose PLG prototype** and validated **4 core workflows**: metric collection, log collection, dashboard access, and troubleshooting.
-* Expanded PLG monitoring across **AWS EKS, EC2, on-premise RKE2, and 4 internal servers** while keeping AWS costs predictable.
-* Validated Docker-based monitoring through **12 load/performance test runs** on **4 on-premise 256GB RAM servers**.
+* Expanded PLG monitoring across **AWS EKS, EC2, on-premises RKE2, and 4 internal servers** while keeping AWS costs predictable.
+* Validated Docker-based monitoring through **12 load/performance test runs** on **4 on-premises 256GB RAM servers**.
 * **Replaced manual log inspection** with **Grafana/Loki-based log search, filtering, and dashboard workflows** for System Engineering.
 * Created **6 A-to-Z monitoring manuals**, documented **4 troubleshooting cases**, and delivered **6 hands-on / architecture guide sessions**.
 
 | Deployment Environment | Kubernetes-Based Monitoring | Docker Compose-Based Monitoring |
 | --- | --- | --- |
 | **Cloud** | **AWS EKS**<br>staging server | **AWS EC2**<br>servers from global proviers |
-| **On-premise** | **RKE2**<br>On-premise Kubernetes environment | **Internal servers**<br>internal test servers |
+| **On-premises** | **RKE2**<br>On-premises Kubernetes environment | **Internal servers**<br>internal test servers |
 
 ## Actions
 ### Q1 2024 — Compared 3 Monitoring Stacks and Delivered 3 Technical Presentations
@@ -91,8 +91,8 @@ I designed and configured monitoring components to collect infrastructure metric
 
 ### Q3 2024 — Expanded PLG Monitoring Across 4 Environment Types and Validated 12 Test Runs Without Unexpected AWS Cost Issues
 
-* **Deployed and stabilized** PLG monitoring across **AWS EKS, EC2, on-premise RKE2, and 4 internal servers** without unexpected AWS cost issues.
-* **Validated Docker-based monitoring** through **12 load/performance test runs** on **4 on-premise 256GB RAM servers**, including **two-day weekend testing sessions**.
+* **Deployed and stabilized** PLG monitoring across **AWS EKS, EC2, on-premises RKE2, and 4 internal servers** without unexpected AWS cost issues.
+* **Validated Docker-based monitoring** through **12 load/performance test runs** on **4 on-premises 256GB RAM servers**, including **two-day weekend testing sessions**.
 * Applied **5 feedback-based usability improvements** from the Q2 prototype review.
 * Created **2 practical usage manuals** and delivered **2 architecture guide sessions** covering Docker-based and Kubernetes-based monitoring models.
 * Standardized Helm chart versions and environment-specific settings to improve deployment consistency and reduce installation issues.
@@ -132,13 +132,13 @@ I designed and configured monitoring components to collect infrastructure metric
 ## Engineering Skill Improved
 
 - Learned how to design observability for real production systems across different infrastructure environments.
-    - Built monitoring support for AWS EKS, on-premise Kubernetes, Docker, and EC2 deployment cases.
+    - Built monitoring support for AWS EKS, on-premises Kubernetes, Docker, and EC2 deployment cases.
     - Understood how infrastructure differences affect monitoring design, deployment strategy, and troubleshooting workflows.
     - Learned to think beyond application development and consider system health, operational visibility, and maintainability.
         
 - Strengthened cloud-native and DevOps engineering skills through a company-wide SaaS transition project.
     - Worked with Kubernetes, Helm, ArgoCD, Prometheus, Grafana, Loki, and AWS EKS.
     - Designed reusable monitoring configurations that could be adapted to multiple environments.
-    - Learned the importance of standardizing observability when moving from customized on-premise projects to scalable cloud-based delivery.
+    - Learned the importance of standardizing observability when moving from customized on-premises projects to scalable cloud-based delivery.
 
 <p align="center"> <a href="https://github.com/Magpie1000/"> <img src="https://img.shields.io/badge/←%20Back%20to%20Main-24292f?style=for-the-badge" alt="Back to Main" /> </a> </p>
