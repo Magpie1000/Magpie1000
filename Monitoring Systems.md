@@ -4,6 +4,15 @@
 
 From 2023 to 2024, I served as a DevOps / Cloud Monitoring engineer in a **LIG Accuver's company-wide Cloud Task Force** to prepare XCAP for **SaaS and cloud-based deployment**.
 
+The Cloud Task Force consisted of 12 LIG Accuver members across Frontend Engineer, Backend Engineer, Dev Ops engineer, and System Engineer. 
+
+The goal of the task force was to make the existing XCAP-Cloud platform deployable across multiple infrastructure environments, including AWS EKS, on-premise Kubernetes, Docker-based deployments, and EC2.
+
+At the beginning of this project, XCAP-Cloud was only deployable using on-premise services. This severely limited XCAP-Cloud’s growth, because on-premise services required significantly more time and LIG Accuver employees physically traveling to the client site. 
+
+Making XCAP-Cloud deployable across varied infrastructures would both reduce the onboarding time for all new users, and allow LIG Accuver to acquire customers anywhere in the world.  
+
+
 | Metric                                                               | Impact                                                                                                                                                                                                                   |
 | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **33% AWS cost reduction**                                           | Used Kubecost to identify Kubernetes resource usage and cost optimization opportunities, helping reduce unnecessary AWS spending for the XCAP-Cloud EKS environment.                                                     |
@@ -19,7 +28,7 @@ XCAP is one of LIG Accuver’s most popular software solutions. 
 
 It is a web or cloud-based post-processing system that helps telecom engineers analyze wireless network data, visualize test results, and troubleshoot network failures through charts, maps, tables, reports, and detailed log analyses.
 
-**The goal** of the Cloud Task Force was to make the **existing XCAP-Cloud platform deployable across multiple infrastructure environments**, including **AWS EKS, on-premises Kubernetes, Docker-based deployments, and EC2**. 
+**The goal** of the **Cloud Task Force** was to make the **existing XCAP-Cloud platform deployable across multiple infrastructure environments**, including **AWS EKS, on-premises Kubernetes, Docker-based deployments, and EC2**. 
 
 <a href="https://www.ligaccuver.com/pages/eng/product_view.asp?sPCate=1&sGCate=7&sPSeq=18"> <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/29cebb3f-82dc-4129-9d3e-cc8103958cde" /></a>
 
@@ -52,7 +61,7 @@ I designed and configured monitoring components to collect infrastructure metric
 * Built a **Docker-compose PLG prototype** and validated **4 core workflows**: metric collection, log collection, dashboard access, and troubleshooting.
 * Expanded PLG monitoring across **AWS EKS, EC2, on-premises RKE2, and 4 internal servers** while keeping AWS costs predictable.
 * Validated Docker-based monitoring through **12 load/performance test runs** on **4 on-premises 256GB RAM servers**.
-* **Replaced manual log inspection** with **Grafana/Loki-based log search, filtering, and dashboard workflows** for System Engineering.
+* **Replaced manual log inspection** with **Grafana/Loki-based log search, filtering, and dashboard workflows** for System Engineering(25 total colleagues).
 * Created **6 A-to-Z monitoring manuals**, documented **4 troubleshooting cases**, and delivered **6 hands-on / architecture guide sessions**.
 
 | Deployment Environment | Kubernetes-Based Monitoring | Docker Compose-Based Monitoring |
@@ -77,10 +86,10 @@ I designed and configured monitoring components to collect infrastructure metric
 
 ### Q2 2024 — Built 1 PLG Prototype, Validated 4 Workflows, Delivered 2 Hands-On Sessions
 * Built the first working **Docker-compose PLG monitoring prototype** and deployed it to **2 internal test servers** for validation.
-* Reduced manual troubleshooting work for the System Engineering team by **replacing direct server log inspection** **with Grafana/Loki-based log search, filtering, and dashboard workflows**.
+* Reduced manual troubleshooting work for the System Engineering team(25 total colleagues) by **replacing direct server log inspection** **with Grafana/Loki-based log search, filtering, and dashboard workflows**.
   * Proved the prototype across **4 core workflows**: metric collection, log collection, dashboard access, and troubleshooting.
-* Delivered **2 hands-on usage guide sessions** for Cloud TF and System Engineering, helping other teams test the prototype and learn Grafana/Loki-based monitoring workflows.
-    * Collected **2 weeks of user feedback** and improved dashboard usability, documentation, and troubleshooting guidance.
+* Delivered **2 hands-on usage guide sessions** for Cloud TF and System Engineering(25 total colleagues), helping other teams test the prototype and learn Grafana/Loki-based monitoring workflows.
+    * Collected **2 weeks of feedback from the System Engineering Team(25 total colleagues)** and improved dashboard usability, documentation, and troubleshooting guidance.
 
 <p align="center">
    <img width="700" alt="image" src="https://github.com/user-attachments/assets/a9f11d0b-d0b4-4062-b4f6-0046152f7fdb" />
