@@ -54,7 +54,7 @@ I designed and configured monitoring components to collect infrastructure metric
 | **Kubecost**                    | Helped monitor Kubernetes resource usage and cloud cost visibility for EKS-based environments.                       |
 
 
-## Development & Maintenance Highlights
+## Actions & Development & Maintenance Highlights
 * Automated **Grafana initial setup**, including user creation, dashboard provisioning, and repeated configuration work, **removing the need for developer standby during late-night installations**.
 * Reduced Helm chart configuration YAML from approximately **200 lines to 65 lines** by simplifying values and removing unnecessary settings.
 * Compared **3 monitoring stack options** — ELK/EFK, PLG, and AWS CloudWatch — across **8 criteria** and selected PLG as the main monitoring direction.
@@ -69,7 +69,7 @@ I designed and configured monitoring components to collect infrastructure metric
 | **Cloud** | **AWS EKS**<br>staging server | **AWS EC2**<br>servers from global providers |
 | **On-premises** | **RKE2**<br>On-premises Kubernetes environment | **Internal servers**<br>internal test servers |
 
-## Actions
+## Full Timeline
 ### Q1 2024 — Compared 3 Monitoring Stacks and Delivered 3 Technical Presentations
 
 * Compared **3 monitoring stack options** — ELK/EFK, PLG, and AWS CloudWatch — and delivered **3 technical presentations** to support Cloud TF stack selection.
