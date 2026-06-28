@@ -125,7 +125,7 @@ Students are not given any information about their team or the app/website they 
   <em><b>Left</b>: receiving a <b>project award and a flagship Samsung smartphone</b> as a prize for the final SSAFY project.</em>
 </p>
 <p align="center">
-  <em><b>Right</b>: leading technical coaching sessions for new SSAFY trainees, <b>including 6 presentations</b> delivered both online and in person.</em>
+  <em><b>Right</b>: delivering 6 technical coaching presentations <b>as a Software Engineering Coach</b>, both online and in person.</em>
 </p>
 
 <table align="center">
@@ -273,5 +273,8 @@ Through repeated coaching, code review, troubleshooting, documentation, and pres
 * **Delivering technical presentations** on Git, bug reporting, Jira/Git workflow, and collaboration practices.
 * **Sharing knowledge across a large trainee group** through 1:1 support, group explanations, presentations, and written materials.
 * **Collaborating with trainees with different backgrounds, skill levels, and communication styles** under a high-pressure full-time engineering program.
+
+
+<p align="center"> <a href="https://github.com/Magpie1000/"> <img src="https://img.shields.io/badge/←%20Back%20to%20Main-24292f?style=for-the-badge" alt="Back to Main" /> </a> </p>
 
 
