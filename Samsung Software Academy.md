@@ -5,7 +5,7 @@
 
 After 5 years working across **education in Korea** and **hospitality in Canada**, I decided to make a radical career change and pursue software engineering.
 
-From July 2021 to June 2022, I attended **Samsung SW·AI Academy for Youth (SSAFY)**, one of South Korea’s most selective software engineering academies. Despite the word “Youth” in the name, **SSAFY is a full-time professional training program** **for young adults** preparing for software engineering careers, not a secondary-school program.
+From July 2021 to June 2022, I attended **Samsung SW·AI Academy for Youth (SSAFY)**, one of South Korea’s most selective software engineering academies. Despite the word “Youth” in the name, **SSAFY is a full-time professional training program** **for young adults** preparing for software engineering careers, **not a secondary-school program.**
 
 | Metric                      | Impact                                                                                 |
 | --------------------------- | -------------------------------------------------------------------------------------- |
@@ -20,6 +20,13 @@ From July 2021 to June 2022, I attended **Samsung SW·AI Academy for Youth (SSAF
 
 ## Background - From a 0 on My First Assessment to the Top 3%
 ### Why Software Engineering?
+
+<p align="center">
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/83bc86ca-3127-420d-8ad2-dfafca8b5329" />
+</p>
+<p align="center">
+  <em>Toronto, 2017 — professional kitchen experience where <b>I contributed to menu development that helped increase sales by 25%</b>.</em>
+</p>
 
 Before software engineering, I worked in **English education in Korea** and as a **cook in fast-paced professional kitchens in Canada**. Those fields looked very different on the surface, but the parts I enjoyed most were surprisingly similar: solving practical problems, improving systems, communicating clearly, and working with people under real constraints.
 
@@ -111,15 +118,50 @@ Students are not given any information about their team or the app/website they 
 
 ### Final Project: Results
 
-| Metric | Impact |
-|---|---|
-| **10 business days** | **Planned, designed, built, and deployed** the first working **MVP from scratch** |
-| **552 users** | Total **users** tracked through **Google Analytics** |
-| **197 members** | **Registered users** |
-| **16K views** | **Total page views** |
-| **3 major-tech placements**       | 3 team members later joined major tech companies in Korea                         |
-| **2nd out of 965 trainees**       | 1 team member’s final academy graduation ranking                                  |
-| **Top 3% + Practice Coach offer** | My final academy ranking and post-graduation role offer at SSAFY                  |
+<p align="center">
+  <img width="800" alt="Final project results" src="https://github.com/user-attachments/assets/47a42362-4378-4447-9e53-15b15265dfe2" />
+</p>
+<p align="center">
+  <em>Left: receiving a project award and a flagship Samsung smartphone as a prize for the final SSAFY project.</em>
+</p>
+<p align="center">
+  <em>Right: leading technical coaching sessions for new SSAFY trainees, including 6 presentations delivered both online and in person.</em>
+</p>
+
+<table align="center">
+  <tr>
+    <th>Metric</th>
+    <th>Impact</th>
+  </tr>
+  <tr>
+    <td><strong>10 business days</strong></td>
+    <td><strong>Planned, designed, built, and deployed</strong> the first working <strong>MVP from scratch</strong></td>
+  </tr>
+  <tr>
+    <td><strong>552 users</strong></td>
+    <td>Total <strong>users</strong> tracked through <strong>Google Analytics</strong></td>
+  </tr>
+  <tr>
+    <td><strong>197 members</strong></td>
+    <td><strong>Registered users</strong></td>
+  </tr>
+  <tr>
+    <td><strong>16K views</strong></td>
+    <td><strong>Total page views</strong></td>
+  </tr>
+  <tr>
+    <td><strong>3 major-tech placements</strong></td>
+    <td>3 team members later joined major tech companies in Korea</td>
+  </tr>
+  <tr>
+    <td><strong>2nd out of 965 trainees</strong></td>
+    <td>1 team member’s final academy graduation ranking</td>
+  </tr>
+  <tr>
+    <td><strong>Top 3% + Software Engineering Coach offer</strong></td>
+    <td>My final academy ranking and post-graduation role offer at SSAFY</td>
+  </tr>
+</table>
 
 ### Final Project: My Role & Responsibilities
 
