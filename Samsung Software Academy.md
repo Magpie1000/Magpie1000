@@ -7,7 +7,6 @@ After 5 years working in education and hospitality, I decided to make a radical 
   
 From July 2021 to June 2022, I attended the Samsung SW·AI Academy for Youth (SSAFY), one of the top engineering academies in all of South Korea. 
 
-
 | Metric                      | Impact                                                                                 |
 | --------------------------- | -------------------------------------------------------------------------------------- |
 | **~3%**                     | Average academy **acceptance rate**                                                    |
@@ -62,8 +61,6 @@ The instructors at the academy were all high-level software engineers, and inclu
 - Former Big Tech employees (Samsung, Hyundai, etc)
 - Standout graduates from SSAFY (top 3% of grads often offered teaching jobs)
 
-
-
 The program was not built around passive lectures alone. It combined daily coding practice, algorithm training, project-based development, peer learning, code review, pair programming, technical assessments, and GitHub-based team projects.
 
 At a high level, the official SSAFY roadmap was structured around:
@@ -92,21 +89,75 @@ At a high level, the official SSAFY roadmap was structured around:
 | **Learning How to Learn**                   | Developed the ability to identify what I did not understand, close knowledge gaps, ask better questions, and improve through repeated feedback, assessments, and project failures.                                                        |
 | **Technical Communication & Leadership** | Built strong communication and leadership skills by serving as **team lead** across **4 team projects**, delivering **7 presentations**, and leading **two 13-member study groups** for peer learning, code review, and technical discussion. |
 
-## Final Project
+## Final Project: Built and Deployed an MVP from Scratch in 10 Business Days, Reaching 552 Users in 4 Weeks
+For my final SSAFY project, my team built **Gatsaeng Daily To-Dos**, a bingo-based habit tracking and sharing platform designed around the Korean “갓생” trend, which refers to living a disciplined and productive daily life. 
+
+<p align='center'>
+<img width="730" height="414" alt="Gatsaeng Daily To-Dos" src="https://github.com/user-attachments/assets/3827daba-6f23-4519-8ee0-5c5c46aaae7f" />
+</p>
+<p align="center">
+  <em>Product landing page and habit bingo UI for Gatsaeng Daily To-Dos, showing daily goal completion, social sharing, and public habit board previews.</em>
+</p>
+
+The idea was simple. Instead of treating habits like a plain to-do list, users could create a daily bingo board, complete goals, share progress, and view other users’ habit boards for motivation.
+
+### Results
+
+| Metric | Impact |
+|---|---|
+| **10 business days** | **Planned, designed, built, and deployed** the first working **MVP from scratch** |
+| **552 users** | Total **users** tracked through **Google Analytics** |
+| **197 members** | **Registered users** |
+| **16K views** | **Total page views** |
+| **763 commits** | Team development activity |
+| **143 code reviews** | GitLab-based collaboration and review process |
+| **3 major-tech placements**       | 3 team members later joined major tech companies in Korea                         |
+| **2nd out of 965 trainees**       | 1 team member’s final academy graduation ranking                                  |
+| **Top 3% + Practice Coach offer** | My final academy ranking and post-graduation role offer at SSAFY                  |
 
 
+### Key Features
 
+* **Daily Bingo Creation**: Users could create a daily “Godlife” board using recommended goals, category-based goals, or custom goals.
+* **Gamified Habit Tracking**: Users completed goals by marking bingo cells and could achieve “Godlife” by completing bingo lines.
+* **Social Sharing**: Users could share results through image saving, link sharing, KakaoTalk, Twitter, and Facebook.
+* **Community Feed**: Users could browse other users’ boards, follow users, and view public habit records.
+* **Social Login & Analytics**: The service supported Google/Kakao login and used Google Analytics to track user behavior.
 
-###  SNS Daily to-dos
+This project gave me repeated practice in full-stack product delivery: defining an MVP, leading a team, building frontend features, collaborating through GitLab, responding to user behavior data, and presenting a working service under a fixed deadline.
 
-  
 
 ### My Role & Responsibilities
+
+I served as the **Team Lead / Frontend Developer** for a 6-developer team.
+
+My responsibilities included:
+
+* Led a **6-developer team** through planning, design, implementation, deployment, and final presentation.
+* Defined project scope and helped prioritize MVP features so the team could deploy the first working version within **10 business days**.
+* Delivered the **interim presentation**, covering product planning, service concept, MVP scope, and system design.
+* Delivered the **final presentation**, including product demo, development process, results, and future improvements.
+* Built frontend features for the habit bingo experience using **React, TypeScript, Redux Toolkit, HTML/CSS**.
+* Managed external promotion through social media channels to attract real users during the project period.
+* Managed **Google Analytics** tracking to monitor user behavior, traffic, and service performance.
+* Coordinated team collaboration through **Jira, GitLab, Mattermost, Notion, and Figma**.
+
 
 
   
 ### System Context
-  
+<p align='center'>
+<img width="475" height="311" alt="image" src="https://github.com/user-attachments/assets/9eb5062c-f421-4710-b486-4d39a0698bf2" />
+</p>
+
+| Item              | Details                                                   |
+| ----------------- | --------------------------------------------------------- |
+| **Frontend**      | React, TypeScript, Redux Toolkit, HTML/CSS                |
+| **Backend**       | Java, Spring Boot, Spring Security, JWT, JPA              |
+| **Infra / DB**    | AWS EC2, nginx, Jenkins, MariaDB, Redis                   |
+| **Collaboration** | Jira, GitLab, Mattermost, Notion, Figma                   |
+
+
 ### Key Features
 
 ###  Final project
