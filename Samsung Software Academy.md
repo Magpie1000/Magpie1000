@@ -208,7 +208,15 @@ My responsibilities included:
 | **Top 1/3 extension offer** | Offered a 6-month extension as one of approximately **10 selected coaches out of 30**; declined to pursue full-time engineering work |
 | **18 presentation coaching sessions** | Helped trainees prepare and improve project presentations, demos, slide structure, and technical explanations                                    |
 
-### Engineering Skills Reinforced
+### Engineering Skills Imporved - as a Top 3% Candidate
+
+The academy gave me a fantastic baseline for understanding all areas of software engineering. Some of the areas I enjoyed/learned the most are: 
+
+1. HTML/CSS/JavaScript
+2. Vue(SPA) 
+3. Git/Jira
+
+### Engineering Skills Imporved - as a Coach
 
 This role became an important bridge between my education background and my software engineering career.
 
