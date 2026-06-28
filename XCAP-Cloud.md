@@ -73,7 +73,7 @@ I was primarily responsible for developing and improving these two core XCAP fea
 * The queried results can be reviewed in tables and exported as CSV files or images for reporting, helping engineers move from high-level monitoring to detailed analysis and documentation.
 * This made deeper network data exploration more accessible and reduced the need for manual query writing, repeated data extraction, and developer support.
 
-## Development & Maintenance Highlights
+## Actions & Development & Maintenance Highlights
 - Worked closely for **2 years** with the client-facing lead who managed direct communication with both enterprise clients, **helping maintain zero client complaints through clear documentation, fast issue resolution, and reliable delivery**.
 - Delivered **15 major/customized features across 210 tickets** from 2023 to 2025, covering GUI query building, SaaS integration, and SMAP AI customization.
 - Reduced major legacy code areas by **60–75%**, including **4,000 → 1,000 lines**, **3,000 → 1,000 lines**, and **1,000 → 300 lines** refactors.
@@ -84,7 +84,7 @@ I was primarily responsible for developing and improving these two core XCAP fea
 - Restored stable SaaS behavior for **5 legacy on-premise API integrations** and centralized scattered integration logic into maintainable modules.
 - Created **3 internal wiki documents** covering **15 cross-team integration issues**, including design intent, change history, and tagged commits.
 
-## Actions
+## Full Timeline
 ### May 2023: Fast Legacy Cleanup and Debugging
 * My first action was cleaning legacy code by **improving readability, removing duplication**, and handling basic debugging tasks. I completed **8 debugging and legacy cleanup tasks, each within one day**. 
 	- **Improved 30+ inconsistent multi-language buttons and labels**, such as OK, Yes, and No, by organizing repeated UI text into reusable shared modules, **reducing related code by 60% from 240 lines to 96 lines**.
