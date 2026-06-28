@@ -158,7 +158,7 @@ We used a typical web application structure: a React frontend, a Spring Boot bac
 </p>
 
 * **Daily Bingo Creation**: Users could create a daily bingo board using recommended goals, category-based goals, or custom goals.
-* **Gamified Habit Tracking**: Users completed goals by marking bingo cells and could achieve could complete bingo lines for a stronger sense of progress.
+* **Gamified Habit Tracking**: Users completed goals by marking bingo cells and could complete bingo lines for a stronger sense of progress.
 * **Social Sharing**: Users could share results through image saving, link sharing, KakaoTalk, Twitter, and Facebook.
 * **Community Feed**: Users could browse other users’ boards, follow users, and view public habit records.
 * **Social Login & Analytics**: The service supported Google/Kakao login and used Google Analytics to track user behavior.
