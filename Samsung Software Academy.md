@@ -1,7 +1,9 @@
 # Graduating in the Top 3% of Prestigious Software Engineering Academy (~3% Acceptance Rate) and Immediately Earning a Software Engineering Coach Role
 
 ## PROJECT SUMMARY
+<p align="center">
 <a href="https://csr.samsung.com/en/program/samsung-sw-academy-for-youth"> <img width="221" height="170" alt="Samsung Software Academy Logo" src="https://github.com/user-attachments/assets/9973f97e-513e-474c-9d38-3425ba81b678" /> </a>
+</p>
 
 After 5 years working across **education in Korea** and **hospitality in Canada**, I decided to make a radical career change and pursue software engineering.
 
