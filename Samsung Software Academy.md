@@ -166,7 +166,6 @@ At a high level, the official SSAFY roadmap was structured around:
 | **Structured Problem Solving** | **Earned an A+ level** score on Samsung’s Software Competency Test and reached **Baekjoon Gold 1** within **2 months**. Learned how to break unclear problems into smaller parts, identify patterns, test assumptions, and debug systematically through daily algorithm practice. |
 | **Full-Stack Web Development Fundamentals** | Learned how frontend, backend, databases, and APIs fit together through **4 web projects over 7 months**, using **JavaScript, HTML/CSS, Vue.js, Python, Django, APIs, and database fundamentals**. |
 | **Project-Based Software Delivery** | Applied those fundamentals through **3 intensive team projects in the second semester**, building working applications from scratch under deadlines while managing scope, GitHub collaboration, debugging, and project presentations. |
-| **Learning How to Learn**                   | Developed the ability to identify what I did not understand, close knowledge gaps, ask better questions, and improve through repeated feedback, assessments, and project failures.                                                        |
 | **Technical Communication & Leadership** | Built strong communication and leadership skills by serving as **team lead** across **4 team projects**, delivering **7 presentations**, and leading **two 13-member study groups** for peer learning, code review, and technical discussion. |
 
 ## Final Project: Built and Deployed an MVP from Scratch in 10 Business Days, Reaching 552 Users in 4 Weeks
@@ -178,16 +177,17 @@ To graduate from SSAFY, all students are given a final team project where they:
 
 Students are not given any information about their team or the app/website they will build until the beginning of the 6 weeks, ensuring no one gets extra time to complete the project. At the end of the 6 weeks, all teams present their websites/apps to the instructors of the academy. 
 
-**For my Final Project, my team was tasked with building a new social web application from scratch.** We chose to build a habit-tracking service around the Korean “갓생” trend, where users could create daily bingo-style to-do boards, complete goals, and share their progress with others.
-
-**The challenge was** to move from zero idea, zero design, and zero codebase to a **deployed MVP fast enough to attract real users during the project itself**.
-
 <p align='center'>
 <img width="730" height="414" alt="Gatsaeng Daily To-Dos" src="https://github.com/user-attachments/assets/3827daba-6f23-4519-8ee0-5c5c46aaae7f" />
 </p>
 <p align="center">
   <em>Product landing page and habit bingo UI for Gatsaeng Daily To-Dos, showing daily goal completion, social sharing, and public habit board previews.</em>
 </p>
+
+**For my Final Project, my team was tasked with building a new social web application from scratch.** We chose to build a habit-tracking service around the Korean “갓생” trend, where users could create daily bingo-style to-do boards, complete goals, and share their progress with others.
+
+**The challenge was** to move from zero idea, zero design, and zero codebase to a **deployed MVP fast enough to attract real users during the project itself**.
+
 
 ### Final Project: Results
 
@@ -329,30 +329,24 @@ My responsibilities included:
 | **80 trainees/week + ~5 troubleshooting sessions/day** | Supported a full classroom cohort through technical Q&A, code review, debugging guidance, and project support, contributing to SSAFY’s **85% graduate employment rate** |
 | **18 presentation coaching sessions + Top 1/3 extension offer** | Coached trainees on project demos and technical explanations; later offered a 6-month extension as one of approximately **10 selected coaches out of 30** |
 
-### Engineering Skills Imporved - as a Top 3% Candidate
+### Engineering Skills Improved as a Top 3% Graduate
 
 The academy gave me a fantastic baseline for understanding all areas of software engineering. Some of the areas I enjoyed/learned the most are: 
 
-1. HTML/CSS/JavaScript
-2. Vue(SPA) 
-3. Git/Jira
+- **Modern web fundamentals**: HTML, CSS, JavaScript, DOM interaction, events, and user-driven UI behavior.
+- **Vue.js SPA development**: Components, data flow, API integration, and frontend state management.
+- **Full-stack development**: How frontend, backend, databases, and APIs work together.
+- **Git/Jira workflow**: Issue tracking, branching, commits, code review, and team-based delivery.
 
-### Engineering Skills Imporved - as a Coach
+### Engineering Skills Improved as Software Engineering Coach
 
-This role became an important bridge between my education background and my software engineering career.
+This role strengthened the engineering habits I later used in professional software development:
 
-Through repeated coaching, code review, troubleshooting, documentation, and presentations, I strengthened the engineering habits that later became essential in professional software development:
-
-* **Explaining complex technical concepts clearly and calmly**, especially to trainees who were seeing the topic for the first time.
-* **Reading code written in many different styles**, identifying intent, spotting issues, and giving practical feedback.
-* **Debugging unfamiliar codebases quickly**, even when I had not written the code myself.
-* **Reading official documentation and translating it into practical guidance** that trainees could apply immediately.
-* **Documenting recurring issues, solutions, and workflows** so knowledge could be reused by other trainees.
-* **Organizing messy technical information** into clear steps, examples, and explanations.
-* **Delivering technical presentations** on Git, bug reporting, Jira/Git workflow, and collaboration practices.
-* **Sharing knowledge across a large trainee group** through 1:1 support, group explanations, presentations, and written materials.
-* **Collaborating with trainees with different backgrounds, skill levels, and communication styles** under a high-pressure full-time engineering program.
-
+- **Code review**: Read code written in many different styles, identified intent, found issues, and gave practical feedback.
+- **Troubleshooting**: Debugged unfamiliar trainee codebases by tracing errors, data flow, API behavior, and implementation logic.
+- **Documentation**: Turned repeated bugs, setup issues, Git mistakes, and workflows into reusable coaching materials.
+- **Technical communication**: Explained official documentation, development concepts, and debugging steps in clear, practical language.
+- **Presentation and collaboration**: Delivered technical sessions and helped trainees prepare demos, slides, and technical explanations.
 
 <p align="center"> <a href="https://github.com/Magpie1000/"> <img src="https://img.shields.io/badge/←%20Back%20to%20Main-24292f?style=for-the-badge" alt="Back to Main" /> </a> </p>
 
