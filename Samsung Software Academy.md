@@ -5,7 +5,7 @@
 
 After 5 years working across **education in Korea** and **hospitality in Canada**, I decided to make a radical career change and pursue software engineering.
 
-From July 2021 to June 2022, I attended **Samsung SW·AI Academy for Youth (SSAFY)**, one of South Korea’s most selective software engineering academies. Despite the word “Youth” in the name, **SSAFY is a full-time professional training program** **for young adults** preparing for software engineering careers, **not a secondary-school program.**
+From July 2021 to June 2022, I attended **Samsung SW·AI Academy for Youth (SSAFY)**, **one of South Korea’s most selective software engineering academies.** Despite the word “Youth” in the name, **SSAFY is a full-time professional training program** **for young adults** preparing for software engineering careers, **not a secondary-school program.**
 
 | Metric                      | Impact                                                                                 |
 | --------------------------- | -------------------------------------------------------------------------------------- |
