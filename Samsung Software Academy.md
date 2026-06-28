@@ -81,8 +81,6 @@ At a high level, the official SSAFY roadmap was structured around:
 
 <p align="center"> <em> Official SSAFY curriculum roadmap: foundational training, career support, advanced project-based learning, and final job fair support. </em> </p>
 
------
-
 | **Foundational Course**                                                                          | **1st Job Fair / Career Support**                                                                     | **Advanced Course**                                                                                       | **2nd Job Fair / Career Support**                                                                            |
 | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | **5.5 months**                                                                                   | **0.5 months**                                                                                        | **5 months**                                                                                              | **1 month**                                                                                                  |
@@ -242,6 +240,15 @@ My responsibilities included:
 * Helped trainees from nontraditional backgrounds build confidence in programming, problem solving, and team-based development.
 
 ### Software Engineering Coach: Results
+
+<p align="center">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/3f26c289-5780-469f-ad7a-6c218201bf2d" />
+</p>
+
+<p align="center">
+  <em><b>Technical coaching materials used to support 80 trainees per week, covering frontend troubleshooting, Figma/component structure, weekly project checklists, and Git workflow guidance.</b></em>
+</p>
+
 
 | Metric                                | Impact                                                                                                                                           |
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
