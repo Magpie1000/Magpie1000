@@ -122,10 +122,10 @@ Students are not given any information about their team or the app/website they 
   <img width="800" alt="Final project results" src="https://github.com/user-attachments/assets/47a42362-4378-4447-9e53-15b15265dfe2" />
 </p>
 <p align="center">
-  <em>Left: receiving a project award and a flagship Samsung smartphone as a prize for the final SSAFY project.</em>
+  <em><b>Left</b>: receiving a <b>project award and a flagship Samsung smartphone</b> as a prize for the final SSAFY project.</em>
 </p>
 <p align="center">
-  <em>Right: leading technical coaching sessions for new SSAFY trainees, including 6 presentations delivered both online and in person.</em>
+  <em><b>Right</b>: leading technical coaching sessions for new SSAFY trainees, <b>including 6 presentations</b> delivered both online and in person.</em>
 </p>
 
 <table align="center">
