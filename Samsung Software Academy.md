@@ -176,8 +176,46 @@ This project gave me repeated practice in full-stack product delivery: defining 
 | **16K views** | **Total page views** |
 | **3 major-tech placements**       | 3 team members later joined major tech companies in Korea                         |
 | **2nd out of 965 trainees**       | 1 team member’s final academy graduation ranking                                  |
-| **Top 3% + Practice Coach offer** | My final academy ranking and post-graduation role offer at SSAFY                  |
+| **Top 3% + Software Engineering Coach offer** | My final academy ranking and post-graduation role offer at SSAFY                  |
+
+## After Graduation: Selected as a Software Engineering Coach at SSAFY
+
+After graduating in the **Top 3%** of SSAFY, I was offered a **Software Engineering Coach** role at the academy.
+
+This role allowed me to return to the same intensive training environment from the other side: not as a trainee, but as someone responsible for helping new trainees debug problems, understand programming concepts, collaborate more effectively, and build confidence during a full-time software engineering program.
 
 
-###  Results
+### Software Engineering Coaching Results
+
+| Metric                                | Impact                                                                                                                                           |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Top 3% graduate**                   | Offered a **Software Engineering Coach** role at SSAFY after graduation                                                                          |
+| **80 trainees/week**                  | Supported a full classroom cohort through technical Q&A, debugging guidance, code review, and project support                                    |
+| **~5 troubleshooting sessions/day**   | Helped trainees resolve daily technical issues across algorithms, Git, frontend/backend development, API integration, and project implementation |
+| **6 technical presentations** | Delivered technical sessions on Git, bug reporting, Jira/Git workflow, and development collaboration, significantly more than the typical **0–1 sessions** delivered by most coaches |
+| **Top 1/3 extension offer** | Offered a 6-month extension as one of approximately **10 selected coaches out of 30**; declined to pursue full-time engineering work |
+| **18 presentation coaching sessions** | Helped trainees prepare and improve project presentations, demos, slide structure, and technical explanations                                    |
+
+### Role & Responsibilities
+
+As a **Software Engineering Coach**, my role was to support new SSAFY trainees as they learned programming fundamentals, built team projects, and prepared technical presentations.
+
+My responsibilities included:
+
+* Supported approximately **80 trainees per week** through technical Q&A, debugging help, code review, and project guidance.
+* Reviewed trainee code regularly and helped them understand not only what was wrong, but why it was wrong.
+* Helped troubleshoot technical issues around **5 times per day on average**, covering algorithms, Git, frontend/backend implementation, API integration, and project implementation problems.
+* Coached trainees through **18 project presentations**, helping them improve demo flow, technical explanation, slide structure, and delivery.
+* Delivered **6 technical presentations** on Git, bug reporting, Jira/Git workflow, and development collaboration.
+* Helped trainees from nontraditional backgrounds build confidence in programming, problem solving, and team-based development.
+
+### Engineering Skills Reinforced
+
+This role became an important bridge between my education background and my software engineering career.
+
+It showed that I could not only learn software engineering quickly, but also explain it clearly, coach others through technical problems, and support a large group of trainees in a high-pressure engineering environment.
+
+By repeatedly reviewing code, answering technical questions, and helping trainees debug real project issues, I strengthened my own fundamentals in algorithms, web development, Git workflows, troubleshooting, and technical communication.
+
+
 
