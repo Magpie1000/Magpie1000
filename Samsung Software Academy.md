@@ -322,15 +322,12 @@ My responsibilities included:
   <em><b>Technical coaching materials used to support 80 trainees per week, covering frontend troubleshooting, Figma/component structure, weekly project checklists, and Git workflow guidance.</b></em>
 </p>
 
-
-| Metric                                | Impact                                                                                                                                           |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Top 3% graduate**                   | Offered a **Software Engineering Coach** role at SSAFY after graduation                                                                          |
-| **80 trainees/week**                  | Supported a full classroom cohort through technical Q&A, debugging guidance, code review, and project support                                    |
-| **~5 troubleshooting sessions/day**   | Helped trainees resolve daily technical issues across algorithms, Git, frontend/backend development, API integration, and project implementation |
-| **6 technical presentations** | Delivered technical sessions on Git, bug reporting, Jira/Git workflow, and development collaboration, significantly more than the typical **0–1 sessions** delivered by most coaches |
-| **Top 1/3 extension offer** | Offered a 6-month extension as one of approximately **10 selected coaches out of 30**; declined to pursue full-time engineering work |
-| **18 presentation coaching sessions** | Helped trainees prepare and improve project presentations, demos, slide structure, and technical explanations                                    |
+| Metric                                                          | Impact                                                                                                                                                    |
+| --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **3.1%**                                   | **Percentage of academy graduates** offered **Software Engineering Coach roles** at SSAFY                                                     |
+| **6 technical presentations**                                   | Delivered sessions on **Git, bug reporting, Jira/Git workflow, and development collaboration**, compared to the typical **0–1 sessions** by most coaches      |
+| **80 trainees/week + ~5 troubleshooting sessions/day** | Supported a full classroom cohort through technical Q&A, code review, debugging guidance, and project support, contributing to SSAFY’s **85% graduate employment rate** |
+| **18 presentation coaching sessions + Top 1/3 extension offer** | Coached trainees on project demos and technical explanations; later offered a 6-month extension as one of approximately **10 selected coaches out of 30** |
 
 ### Engineering Skills Imporved - as a Top 3% Candidate
 
