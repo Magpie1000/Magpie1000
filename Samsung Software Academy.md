@@ -84,6 +84,13 @@ At a high level, the official SSAFY roadmap was structured around:
 
 ## Skills Gained
 
+| Skill Area                                  | What I Gained                                                                                                                                                                                                                             |
+| ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Structured Problem Solving** | **Earned an A+ level** score on Samsung’s Software Competency Test and reached **Baekjoon Gold 1** within **2 months**. Learned how to break unclear problems into smaller parts, identify patterns, test assumptions, and debug systematically through daily algorithm practice. |
+| **Full-Stack Web Development Fundamentals** | Learned how frontend, backend, databases, and APIs fit together through **4 web projects over 7 months**, using **JavaScript, HTML/CSS, Vue.js, Python, Django, APIs, and database fundamentals**. |
+| **Project-Based Software Delivery** | Applied those fundamentals through **3 intensive team projects in the second semester**, building working applications from scratch under deadlines while managing scope, GitHub collaboration, debugging, and project presentations. |
+| **Learning How to Learn**                   | Developed the ability to identify what I did not understand, close knowledge gaps, ask better questions, and improve through repeated feedback, assessments, and project failures.                                                        |
+| **Technical Communication & Leadership** | Built strong communication and leadership skills by serving as **team lead** across **4 team projects**, delivering **7 presentations**, and leading **two 13-member study groups** for peer learning, code review, and technical discussion. |
 
 ## Final Project
 
