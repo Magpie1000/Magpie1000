@@ -117,8 +117,6 @@ Students are not given any information about their team or the app/website they 
 | **552 users** | Total **users** tracked through **Google Analytics** |
 | **197 members** | **Registered users** |
 | **16K views** | **Total page views** |
-| **763 commits** | Team development activity |
-| **143 code reviews** | GitLab-based collaboration and review process |
 | **3 major-tech placements**       | 3 team members later joined major tech companies in Korea                         |
 | **2nd out of 965 trainees**       | 1 team member’s final academy graduation ranking                                  |
 | **Top 3% + Practice Coach offer** | My final academy ranking and post-graduation role offer at SSAFY                  |
@@ -139,18 +137,25 @@ My responsibilities included:
 * Coordinated team collaboration through **Jira, GitLab, Mattermost, Notion, and Figma**.
   
 ### System Context
+The system architecture was intentionally kept **simple, standard, and easy to operate** for a 6-week MVP project.
+
+We used a typical web application structure: a React frontend, a Spring Boot backend, MariaDB for persistent data, Redis for caching/session-related data, and nginx as the entry point for routing frontend and API traffic. The application was deployed on AWS EC2, with Jenkins connected to GitLab for deployment automation.
+
 <p align='center'>
 <img width="475" height="311" alt="image" src="https://github.com/user-attachments/assets/9eb5062c-f421-4710-b486-4d39a0698bf2" />
 </p>
 
-| Item              | Details                                                   |
-| ----------------- | --------------------------------------------------------- |
-| **Frontend**      | React, TypeScript, Redux Toolkit, HTML/CSS                |
-| **Backend**       | Java, Spring Boot, Spring Security, JWT, JPA              |
-| **Infra / DB**    | AWS EC2, nginx, Jenkins, MariaDB, Redis                   |
-| **Collaboration** | Jira, GitLab, Mattermost, Notion, Figma                   |
+<table align="center"> <tr> <th>Item</th> <th>Details</th> </tr> <tr> <td><strong>Frontend</strong></td> <td>React, TypeScript, Redux Toolkit, HTML/CSS</td> </tr> <tr> <td><strong>Backend</strong></td> <td>Java, Spring Boot, Spring Security, JWT, JPA</td> </tr> <tr> <td><strong>Infra / DB</strong></td> <td>AWS EC2, nginx, Jenkins, MariaDB, Redis</td> </tr> <tr> <td><strong>Collaboration</strong></td> <td>Jira, GitLab, Mattermost, Notion, Figma</td> </tr> </table>
+
 
 ### Key Features
+<p align='center'>
+<img width="683" height="478" alt="image" src="https://github.com/user-attachments/assets/f9d7fcae-05cb-4347-8d9f-eb0f9cad9ee4" />
+</p>
+
+<p align="center">
+  <em>Left: daily bingo creation · Center: habit goal completion · Right: SNS-style community feed for browsing other users’ boards.</em>
+</p>
 
 * **Daily Bingo Creation**: Users could create a daily “Godlife” board using recommended goals, category-based goals, or custom goals.
 * **Gamified Habit Tracking**: Users completed goals by marking bingo cells and could achieve “Godlife” by completing bingo lines.
@@ -161,12 +166,17 @@ My responsibilities included:
 This project gave me repeated practice in full-stack product delivery: defining an MVP, leading a team, building frontend features, collaborating through GitLab, responding to user behavior data, and presenting a working service under a fixed deadline.
 
 
+### Results
 
-
-
-### Key Features
-
-###  Final project
+| Metric | Impact |
+|---|---|
+| **10 business days** | **Planned, designed, built, and deployed** the first working **MVP from scratch** |
+| **552 users** | Total **users** tracked through **Google Analytics** |
+| **197 members** | **Registered users** |
+| **16K views** | **Total page views** |
+| **3 major-tech placements**       | 3 team members later joined major tech companies in Korea                         |
+| **2nd out of 965 trainees**       | 1 team member’s final academy graduation ranking                                  |
+| **Top 3% + Practice Coach offer** | My final academy ranking and post-graduation role offer at SSAFY                  |
 
 
 ###  Results
