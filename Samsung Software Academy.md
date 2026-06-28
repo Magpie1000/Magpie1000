@@ -1,4 +1,4 @@
-# Graduating in the Top 3% of Prestigious Software Engineering Academy (~3% Acceptance Rate) and Immediately Earning Instructor Role
+# Graduating in the Top 3% of Prestigious Software Engineering Academy (~3% Acceptance Rate) and Immediately Earning Software Engineering Coach Role
 
 ## PROJECT SUMMARY
 <a href="https://csr.samsung.com/en/program/samsung-sw-academy-for-youth"> <img width="221" height="170" alt="Samsung Software Academy Logo" src="https://github.com/user-attachments/assets/9973f97e-513e-474c-9d38-3425ba81b678" /> </a>
@@ -14,7 +14,7 @@ From July 2021 to June 2022, I attended the Samsung SW·AI Academy for Youth (SS
 | **High-end Samsung laptop** | **Provided to trainees**, along with a fully prepared **development environment**.     |
 | **85%**                     | Employment rate of graduates                                                           |
 | **Top 3%**                      | **My graduation ranking (30 out of 965)**                                                  |
-| **3.1%**                    | **Percentage of academy graduates** **offered teaching positions** at the academy |
+| **3.1%**                    | **Percentage of academy graduates** **offered Software Engineering Coach roles** at the academy |
 | **12K**                     | **Cumulative trainees** from 2018 to 2024                                              |
 
 
@@ -94,7 +94,7 @@ At a high level, the official SSAFY roadmap was structured around:
 To graduate from SSAFY, all students are given a final team project where they:
 
 1. Are grouped into a 6-engineer team
-2. Have 6 weeks to build a working website or application from 0. 
+2. Have 6 weeks to build a working website or application from scratch. 
 
 Students are not given any information about their team or the app/website they will build until the beginning of the 6 weeks, ensuring no one gets extra time to complete the project. At the end of the 6 weeks, all teams present their websites/apps to the instructors of the academy. 
 
@@ -157,8 +157,8 @@ We used a typical web application structure: a React frontend, a Spring Boot bac
   <em>Left: daily bingo creation · Center: habit goal completion · Right: SNS-style community feed for browsing other users’ boards.</em>
 </p>
 
-* **Daily Bingo Creation**: Users could create a daily “Godlife” board using recommended goals, category-based goals, or custom goals.
-* **Gamified Habit Tracking**: Users completed goals by marking bingo cells and could achieve “Godlife” by completing bingo lines.
+* **Daily Bingo Creation**: Users could create a daily bingo board using recommended goals, category-based goals, or custom goals.
+* **Gamified Habit Tracking**: Users completed goals by marking bingo cells and could achieve could complete bingo lines for a stronger sense of progress.
 * **Social Sharing**: Users could share results through image saving, link sharing, KakaoTalk, Twitter, and Facebook.
 * **Community Feed**: Users could browse other users’ boards, follow users, and view public habit records.
 * **Social Login & Analytics**: The service supported Google/Kakao login and used Google Analytics to track user behavior.
@@ -184,18 +184,6 @@ After graduating in the **Top 3%** of SSAFY, I was offered a **Software Engineer
 
 This role allowed me to return to the same intensive training environment from the other side: not as a trainee, but as someone responsible for helping new trainees debug problems, understand programming concepts, collaborate more effectively, and build confidence during a full-time software engineering program.
 
-
-### Software Engineering Coaching Results
-
-| Metric                                | Impact                                                                                                                                           |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Top 3% graduate**                   | Offered a **Software Engineering Coach** role at SSAFY after graduation                                                                          |
-| **80 trainees/week**                  | Supported a full classroom cohort through technical Q&A, debugging guidance, code review, and project support                                    |
-| **~5 troubleshooting sessions/day**   | Helped trainees resolve daily technical issues across algorithms, Git, frontend/backend development, API integration, and project implementation |
-| **6 technical presentations** | Delivered technical sessions on Git, bug reporting, Jira/Git workflow, and development collaboration, significantly more than the typical **0–1 sessions** delivered by most coaches |
-| **Top 1/3 extension offer** | Offered a 6-month extension as one of approximately **10 selected coaches out of 30**; declined to pursue full-time engineering work |
-| **18 presentation coaching sessions** | Helped trainees prepare and improve project presentations, demos, slide structure, and technical explanations                                    |
-
 ### Role & Responsibilities
 
 As a **Software Engineering Coach**, my role was to support new SSAFY trainees as they learned programming fundamentals, built team projects, and prepared technical presentations.
@@ -209,13 +197,31 @@ My responsibilities included:
 * Delivered **6 technical presentations** on Git, bug reporting, Jira/Git workflow, and development collaboration.
 * Helped trainees from nontraditional backgrounds build confidence in programming, problem solving, and team-based development.
 
+### Software Engineering Coaching Results
+
+| Metric                                | Impact                                                                                                                                           |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Top 3% graduate**                   | Offered a **Software Engineering Coach** role at SSAFY after graduation                                                                          |
+| **80 trainees/week**                  | Supported a full classroom cohort through technical Q&A, debugging guidance, code review, and project support                                    |
+| **~5 troubleshooting sessions/day**   | Helped trainees resolve daily technical issues across algorithms, Git, frontend/backend development, API integration, and project implementation |
+| **6 technical presentations** | Delivered technical sessions on Git, bug reporting, Jira/Git workflow, and development collaboration, significantly more than the typical **0–1 sessions** delivered by most coaches |
+| **Top 1/3 extension offer** | Offered a 6-month extension as one of approximately **10 selected coaches out of 30**; declined to pursue full-time engineering work |
+| **18 presentation coaching sessions** | Helped trainees prepare and improve project presentations, demos, slide structure, and technical explanations                                    |
+
 ### Engineering Skills Reinforced
 
 This role became an important bridge between my education background and my software engineering career.
 
-It showed that I could not only learn software engineering quickly, but also explain it clearly, coach others through technical problems, and support a large group of trainees in a high-pressure engineering environment.
+Through repeated coaching, code review, troubleshooting, documentation, and presentations, I strengthened the engineering habits that later became essential in professional software development:
 
-By repeatedly reviewing code, answering technical questions, and helping trainees debug real project issues, I strengthened my own fundamentals in algorithms, web development, Git workflows, troubleshooting, and technical communication.
-
+* **Explaining complex technical concepts clearly and calmly**, especially to trainees who were seeing the topic for the first time.
+* **Reading code written in many different styles**, identifying intent, spotting issues, and giving practical feedback.
+* **Debugging unfamiliar codebases quickly**, even when I had not written the code myself.
+* **Reading official documentation and translating it into practical guidance** that trainees could apply immediately.
+* **Documenting recurring issues, solutions, and workflows** so knowledge could be reused by other trainees.
+* **Organizing messy technical information** into clear steps, examples, and explanations.
+* **Delivering technical presentations** on Git, bug reporting, Jira/Git workflow, and collaboration practices.
+* **Sharing knowledge across a large trainee group** through 1:1 support, group explanations, presentations, and written materials.
+* **Collaborating with trainees with different backgrounds, skill levels, and communication styles** under a high-pressure full-time engineering program.
 
 
