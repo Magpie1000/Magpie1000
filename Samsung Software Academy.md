@@ -5,7 +5,7 @@
 
 After 5 years working in education and hospitality, I decided to make a radical career change and pursue Software Engineering. 
   
-From July 2021 to June 2022, I attended the Samsung Software-AI Academy for Youth (SSAFY), one of the top engineering academies in all of South Korea. 
+From July 2021 to June 2022, I attended the Samsung SW·AI Academy for Youth (SSAFY), one of the top engineering academies in all of South Korea. 
 
 
 | Metric                      | Impact                                                                                 |
@@ -49,13 +49,40 @@ However, SSAFY used a holistic application process. The application process incl
 
 Despite having no engineering work experience, I performed well enough in the tests and interviews to be accepted and officially enrolled at the academy in July 2021.
 
-
-
 ## ACADEMY STRUCTURE & CURRICULUM
+<p align="center">
+<img width="700" alt="SSAFY banner" src="https://github.com/user-attachments/assets/2d335ae2-624d-488c-ac26-dfdd462a2ca9" />
+</p>
+
+SSAFY was a **12-month, full-time(40h/week, 1600 hours total)** software engineering academy designed to train job-ready software developers through intensive coding education, practical projects, and structured employment support.**The curriculum was designed to cover** the practical foundations required **to become a full-stack web developer: algorithmic problem solving, frontend development, backend development, databases, Git/GitHub collaboration, debugging, testing, project planning, and technical communication**. 
+
+Outside of classes, daily work included algorithm practice, implementation assignments, peer study sessions, code review, project planning, and documentation.
+
+The instructors at the academy were all high-level software engineers, and include a mix of: 
+- Former Big Tech employees (Samsung, Hyundai, etc)
+- Standout graduates from SSAFY (top 3% of grads often offered teaching jobs)
 
 
 
-## Tech Stack Learned (Or Skills Gained)
+The program was not built around passive lectures alone. It combined daily coding practice, algorithm training, project-based development, peer learning, code review, pair programming, technical assessments, and GitHub-based team projects.
+
+At a high level, the official SSAFY roadmap was structured around:
+
+-----
+<p align="center">
+<img width="928" height="456" alt="SSAFY curriculum roadmap" src="https://github.com/user-attachments/assets/c6ada1f2-0e17-4009-b6af-0152cec3792f" />
+</p>
+
+<p align="center"> <em> Official SSAFY curriculum roadmap: foundational training, career support, advanced project-based learning, and final job fair support. </em> </p>
+
+-----
+
+| **Foundational Course**                                                                          | **1st Job Fair / Career Support**                                                                     | **Advanced Course**                                                                                       | **2nd Job Fair / Career Support**                                                                            |
+| ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| **5.5 months**                                                                                   | **0.5 months**                                                                                        | **5 months**                                                                                              | **1 month**                                                                                                  |
+| Built core SW·AI fundamentals through algorithms, daily coding practice, and level-based classes | Strengthened job readiness through career coaching, personalized support, and recruitment information | Developed practical software delivery skills through self-directed team projects and real-world workflows | Supported final job placement through job fairs, company sessions, career consulting, and employment support |
+
+## Skills Gained
 
 
 ## Final Project
