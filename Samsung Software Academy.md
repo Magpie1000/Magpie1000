@@ -9,15 +9,33 @@ After 5 years working across **education in Korea** and **hospitality in Canada*
 
 From July 2021 to June 2022, I attended **Samsung SW·AI Academy for Youth (SSAFY)**, **one of South Korea’s most selective software engineering academies.** Despite the word “Youth” in the name, **SSAFY is a full-time professional training program** **for young adults** preparing for software engineering careers, **not a secondary-school program.**
 
-| Metric                      | Impact                                                                                 |
-| --------------------------- | -------------------------------------------------------------------------------------- |
-| **~3%**                     | Average academy **acceptance rate**                                                    |
-| **$1000 / month**         | **Monthly scholarship** provided **to trainees by Samsung and the Korean government** |
-| **High-end Samsung laptop** | **Provided to trainees**, along with a fully prepared **development environment**.     |
-| **85%**                     | Employment rate of graduates                                                           |
-| **Top 3%**                      | **My graduation ranking (30 out of 965)**                                                  |
-| **3.1%**                    | **Percentage of academy graduates** **offered Software Engineering Coach roles** at the academy |
+### SSAFY Program Metrics
+
+| Metric                      | Impact                                                                             |
+| --------------------------- | ---------------------------------------------------------------------------------- |
+| **~3%**                     | Average academy **acceptance rate**                                                |
+| **12 months / 1600 hours**  | Full-time **software engineering training** program **for young adults**                                   |
+| **$1000 / month**<br> **+ High-end Samsung laptop**           | **Monthly training stipend** provided to trainees **by Samsung and the Korean government** with high-end equipment |
+| **85%**                     | **Employment rate of graduates**                                                       |
 | **12K**                     | **Cumulative trainees** from 2018 to 2024                                              |
+
+### Results: as a Top 3% Graduate of SSAFY
+
+| Metric                                       | Impact                                                                                                                                   |
+| -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **Top 3%**                                   | My graduation ranking: **30 out of 965 trainees**                                                                                        |
+| **4 award-winning team projects**            | Led all **4 team projects over 7 months**, with every project placing **1st or 2nd**                                                     |
+| **7 presentations + 26 study-group members** | Delivered project presentations and led **two 13-member study groups** for peer learning and technical discussion                        |
+| **10-day MVP → 552 users / 16K views**       | Planned, designed, built, and deployed the first working **MVP from scratch**, reaching real users during the **4-week public usage period** |
+
+### Results: Coaching 80 Trainees/Week as a Software Engineering Coach
+
+| Metric                                                          | Impact                                                                                                                                                    |
+| --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **3.1%**                                   | **Percentage of academy graduates** offered **Software Engineering Coach roles** at SSAFY                                                     |
+| **6 technical presentations**                                   | Delivered sessions on **Git, bug reporting, Jira/Git workflow, and development collaboration**, compared to the typical **0–1 sessions** by most coaches      |
+| **80 trainees/week + ~5 troubleshooting sessions/day** | Supported a full classroom cohort through technical Q&A, code review, debugging guidance, and project support, contributing to SSAFY’s **85% graduate employment rate** |
+| **18 presentation coaching sessions + Top 1/3 extension offer** | Coached trainees on project demos and technical explanations; later offered a 6-month extension as one of approximately **10 selected coaches out of 30** |
 
 
 ## Background - From a 0 on My First Assessment to the Top 3%
