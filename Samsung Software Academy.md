@@ -9,7 +9,19 @@ After 5 years working across **education in Korea** and **hospitality in Canada*
 
 From July 2021 to June 2022, I attended **Samsung SW·AI Academy for Youth (SSAFY)**, **one of South Korea’s most selective software engineering academies.** Despite the word “Youth” in the name, **SSAFY is a full-time professional training program** **for young adults** preparing for software engineering careers, **not a secondary-school program.**
 
-### SSAFY Program Metrics
+### SSAFY Program Metrics: Samsung-Operated, Government-Supported Software Engineering Program
+<p align="center">
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/5d890589-c783-47a5-8a09-e1706b33bca8" />
+</p>
+<p align="center">
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/6c5cddff-5bb0-4b5d-85a4-8d113cede3dd" />
+</p>
+
+<p align="center">
+  <em>Official SSAFY program overview from Samsung Corporate Citizenship, highlighting the academy’s scale, employment outcomes, and national job-training support for <b>young adult software engineering trainees.</b></em>
+</p>
+
+SSAFY attracts a wide range of applicants, including non-CS career changers, computer science graduates, and early-career professionals with prior industry experience.
 
 | Metric                      | Impact                                                                             |
 | --------------------------- | ---------------------------------------------------------------------------------- |
@@ -20,6 +32,15 @@ From July 2021 to June 2022, I attended **Samsung SW·AI Academy for Youth (SSAF
 | **12K**                     | **Cumulative trainees** from 2018 to 2024                                              |
 
 ### Results: as a Top 3% Graduate of SSAFY
+<p align="center">
+  <img width="800" alt="Final project results" src="https://github.com/user-attachments/assets/47a42362-4378-4447-9e53-15b15265dfe2" />
+</p>
+<p align="center">
+  <em><b>Left</b>: receiving a <b>project award and a flagship Samsung smartphone</b> as a prize for the final SSAFY project.</em>
+</p>
+<p align="center">
+  <em><b>Right</b>: delivering 6 technical coaching presentations <b>as a Software Engineering Coach</b>, both online and in person.</em>
+</p>
 
 | Metric                                       | Impact                                                                                                                                   |
 | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -29,6 +50,14 @@ From July 2021 to June 2022, I attended **Samsung SW·AI Academy for Youth (SSAF
 | **10-day MVP → 552 users / 16K views**       | Planned, designed, built, and deployed the first working **MVP from scratch**, reaching real users during the **4-week public usage period** |
 
 ### Results: Coaching 80 Trainees/Week as a Software Engineering Coach
+
+<p align="center">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/3f26c289-5780-469f-ad7a-6c218201bf2d" />
+</p>
+
+<p align="center">
+  <em><b>Technical coaching materials used to support 80 trainees per week, covering frontend troubleshooting, Figma/component structure, weekly project checklists, and Git workflow guidance.</b></em>
+</p>
 
 | Metric                                                          | Impact                                                                                                                                                    |
 | --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -45,7 +74,7 @@ From July 2021 to June 2022, I attended **Samsung SW·AI Academy for Youth (SSAF
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/83bc86ca-3127-420d-8ad2-dfafca8b5329" />
 </p>
 <p align="center">
-  <em>Toronto, 2017 — professional kitchen experience where <b>I contributed to menu development that helped increase sales by 25%</b>.</em>
+  <em><b>Toronto, ON, 2017</b> — professional kitchen experience where <b>I contributed to menu development that helped increase sales by 25%</b>.</em>
 </p>
 
 Before software engineering, I worked in **English education in Korea** and as a **cook in fast-paced professional kitchens in Canada**. Those fields looked very different on the surface, but the parts I enjoyed most were surprisingly similar: solving practical problems, improving systems, communicating clearly, and working with people under real constraints.
@@ -74,6 +103,32 @@ However, SSAFY used a holistic application process. The application process incl
 3. A live presentation with Q&A
 
 Despite having no engineering work experience, I performed well enough in the tests and interviews to be accepted and officially enrolled at the academy in July 2021.
+
+### From a 0 on My First Assessment to Top 3% Through Peer-Learning Leadership
+<p align="center">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/d77d711a-0842-489a-b407-41035330d109" />
+</p>
+
+<p align="center">
+  <em>Study materials I created from scratch to keep the peer-learning groups organized and consistent, including algorithm problem lists, progress tracking sheets, code review examples, and solution notes.</em>
+</p>
+
+After entering SSAFY, I scored **0** on my first internal assessment. The assessment assumed more programming experiences than I had at the time, and most of my peers already had prior coding experience or previous programming study experience.
+
+Once I understood how to study software engineering, however, my progress accelerated quickly. I realized that working with logic, breaking problems down, and organizing unclear information came naturally to me.
+
+To recover from that start, I created and led two peer-learning study groups from the ground up:
+
+| Study Group                                            | Purpose                                                                                                                                | Outcome                                                                                                       |
+| ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **Algorithm Problem-Solving / Coding Assessment Prep** | Solved algorithm problems regularly, reviewed different solution approaches, and prepared for software engineering coding assessments  | **85% of the 13 members** achieved meaningful coding assessment results                                       |
+| **Web Development / Project Study Group**              | Reviewed frontend/backend concepts, shared implementation patterns, discussed project issues, and prepared for first-semester projects | Helped participants build stronger foundations and perform strongly in first-semester coursework and projects |
+
+I did not just participate in these groups. I **created, organized, and kept both groups running consistently** by setting study goals, preparing discussion topics, guiding sessions, encouraging participation, and helping members stay accountable.
+
+That learning system helped me go from scoring **0** on my first assessment to graduating in the **Top 3%** of 965 trainees, while also building the communication and leadership habits that later became important in engineering work and software coaching.
+
+
 
 ## ACADEMY STRUCTURE & CURRICULUM
 <p align="center">
