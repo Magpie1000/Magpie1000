@@ -90,7 +90,17 @@ At a high level, the official SSAFY roadmap was structured around:
 | **Technical Communication & Leadership** | Built strong communication and leadership skills by serving as **team lead** across **4 team projects**, delivering **7 presentations**, and leading **two 13-member study groups** for peer learning, code review, and technical discussion. |
 
 ## Final Project: Built and Deployed an MVP from Scratch in 10 Business Days, Reaching 552 Users in 4 Weeks
-For my final SSAFY project, my team built **Gatsaeng Daily To-Dos**, a bingo-based habit tracking and sharing platform designed around the Korean “갓생” trend, which refers to living a disciplined and productive daily life. 
+
+To graduate from SSAFY, all students are given a final team project where they:
+
+1. Are grouped into a 6-engineer team
+2. Have 6 weeks to build a working website or application from 0. 
+
+Students are not given any information about their team or the app/website they will build until the beginning of the 6 weeks, ensuring no one gets extra time to complete the project. At the end of the 6 weeks, all teams present their websites/apps to the instructors of the academy. 
+
+**For my Final Project, my team was tasked with building a new social web application from scratch.** We chose to build a habit-tracking service around the Korean “갓생” trend, where users could create daily bingo-style to-do boards, complete goals, and share their progress with others.
+
+**The challenge was** to move from zero idea, zero design, and zero codebase to a **deployed MVP fast enough to attract real users during the project itself**.
 
 <p align='center'>
 <img width="730" height="414" alt="Gatsaeng Daily To-Dos" src="https://github.com/user-attachments/assets/3827daba-6f23-4519-8ee0-5c5c46aaae7f" />
@@ -98,8 +108,6 @@ For my final SSAFY project, my team built **Gatsaeng Daily To-Dos**, a bingo-bas
 <p align="center">
   <em>Product landing page and habit bingo UI for Gatsaeng Daily To-Dos, showing daily goal completion, social sharing, and public habit board previews.</em>
 </p>
-
-The idea was simple. Instead of treating habits like a plain to-do list, users could create a daily bingo board, complete goals, share progress, and view other users’ habit boards for motivation.
 
 ### Results
 
@@ -115,18 +123,6 @@ The idea was simple. Instead of treating habits like a plain to-do list, users c
 | **2nd out of 965 trainees**       | 1 team member’s final academy graduation ranking                                  |
 | **Top 3% + Practice Coach offer** | My final academy ranking and post-graduation role offer at SSAFY                  |
 
-
-### Key Features
-
-* **Daily Bingo Creation**: Users could create a daily “Godlife” board using recommended goals, category-based goals, or custom goals.
-* **Gamified Habit Tracking**: Users completed goals by marking bingo cells and could achieve “Godlife” by completing bingo lines.
-* **Social Sharing**: Users could share results through image saving, link sharing, KakaoTalk, Twitter, and Facebook.
-* **Community Feed**: Users could browse other users’ boards, follow users, and view public habit records.
-* **Social Login & Analytics**: The service supported Google/Kakao login and used Google Analytics to track user behavior.
-
-This project gave me repeated practice in full-stack product delivery: defining an MVP, leading a team, building frontend features, collaborating through GitLab, responding to user behavior data, and presenting a working service under a fixed deadline.
-
-
 ### My Role & Responsibilities
 
 I served as the **Team Lead / Frontend Developer** for a 6-developer team.
@@ -141,9 +137,6 @@ My responsibilities included:
 * Managed external promotion through social media channels to attract real users during the project period.
 * Managed **Google Analytics** tracking to monitor user behavior, traffic, and service performance.
 * Coordinated team collaboration through **Jira, GitLab, Mattermost, Notion, and Figma**.
-
-
-
   
 ### System Context
 <p align='center'>
@@ -156,6 +149,19 @@ My responsibilities included:
 | **Backend**       | Java, Spring Boot, Spring Security, JWT, JPA              |
 | **Infra / DB**    | AWS EC2, nginx, Jenkins, MariaDB, Redis                   |
 | **Collaboration** | Jira, GitLab, Mattermost, Notion, Figma                   |
+
+### Key Features
+
+* **Daily Bingo Creation**: Users could create a daily “Godlife” board using recommended goals, category-based goals, or custom goals.
+* **Gamified Habit Tracking**: Users completed goals by marking bingo cells and could achieve “Godlife” by completing bingo lines.
+* **Social Sharing**: Users could share results through image saving, link sharing, KakaoTalk, Twitter, and Facebook.
+* **Community Feed**: Users could browse other users’ boards, follow users, and view public habit records.
+* **Social Login & Analytics**: The service supported Google/Kakao login and used Google Analytics to track user behavior.
+
+This project gave me repeated practice in full-stack product delivery: defining an MVP, leading a team, building frontend features, collaborating through GitLab, responding to user behavior data, and presenting a working service under a fixed deadline.
+
+
+
 
 
 ### Key Features
