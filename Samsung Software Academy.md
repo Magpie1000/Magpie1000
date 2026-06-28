@@ -109,7 +109,7 @@ Students are not given any information about their team or the app/website they 
   <em>Product landing page and habit bingo UI for Gatsaeng Daily To-Dos, showing daily goal completion, social sharing, and public habit board previews.</em>
 </p>
 
-### Results
+### Final Project: Results
 
 | Metric | Impact |
 |---|---|
@@ -121,7 +121,7 @@ Students are not given any information about their team or the app/website they 
 | **2nd out of 965 trainees**       | 1 team member’s final academy graduation ranking                                  |
 | **Top 3% + Practice Coach offer** | My final academy ranking and post-graduation role offer at SSAFY                  |
 
-### My Role & Responsibilities
+### Final Project: My Role & Responsibilities
 
 I served as the **Team Lead / Frontend Developer** for a 6-developer team.
 
@@ -136,7 +136,7 @@ My responsibilities included:
 * Managed **Google Analytics** tracking to monitor user behavior, traffic, and service performance.
 * Coordinated team collaboration through **Jira, GitLab, Mattermost, Notion, and Figma**.
   
-### System Context
+### Final Project: System Context
 The system architecture was intentionally kept **simple, standard, and easy to operate** for a 6-week MVP project.
 
 We used a typical web application structure: a React frontend, a Spring Boot backend, MariaDB for persistent data, Redis for caching/session-related data, and nginx as the entry point for routing frontend and API traffic. The application was deployed on AWS EC2, with Jenkins connected to GitLab for deployment automation.
@@ -148,7 +148,7 @@ We used a typical web application structure: a React frontend, a Spring Boot bac
 <table align="center"> <tr> <th>Item</th> <th>Details</th> </tr> <tr> <td><strong>Frontend</strong></td> <td>React, TypeScript, Redux Toolkit, HTML/CSS</td> </tr> <tr> <td><strong>Backend</strong></td> <td>Java, Spring Boot, Spring Security, JWT, JPA</td> </tr> <tr> <td><strong>Infra / DB</strong></td> <td>AWS EC2, nginx, Jenkins, MariaDB, Redis</td> </tr> <tr> <td><strong>Collaboration</strong></td> <td>Jira, GitLab, Mattermost, Notion, Figma</td> </tr> </table>
 
 
-### Key Features
+### Final Project: Key Features
 <p align='center'>
 <img width="683" height="478" alt="image" src="https://github.com/user-attachments/assets/f9d7fcae-05cb-4347-8d9f-eb0f9cad9ee4" />
 </p>
@@ -166,7 +166,7 @@ We used a typical web application structure: a React frontend, a Spring Boot bac
 This project gave me repeated practice in full-stack product delivery: defining an MVP, leading a team, building frontend features, collaborating through GitLab, responding to user behavior data, and presenting a working service under a fixed deadline.
 
 
-### Results
+### Final Project: Results
 
 | Metric | Impact |
 |---|---|
@@ -184,7 +184,7 @@ After graduating in the **Top 3%** of SSAFY, I was offered a **Software Engineer
 
 This role allowed me to return to the same intensive training environment from the other side: not as a trainee, but as someone responsible for helping new trainees debug problems, understand programming concepts, collaborate more effectively, and build confidence during a full-time software engineering program.
 
-### Role & Responsibilities
+### Software Engineering Coach: Role & Responsibilities
 
 As a **Software Engineering Coach**, my role was to support new SSAFY trainees as they learned programming fundamentals, built team projects, and prepared technical presentations.
 
@@ -197,7 +197,7 @@ My responsibilities included:
 * Delivered **6 technical presentations** on Git, bug reporting, Jira/Git workflow, and development collaboration.
 * Helped trainees from nontraditional backgrounds build confidence in programming, problem solving, and team-based development.
 
-### Software Engineering Coaching Results
+### Software Engineering Coach: Results
 
 | Metric                                | Impact                                                                                                                                           |
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
