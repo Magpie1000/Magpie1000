@@ -19,7 +19,7 @@ From July 2021 to June 2022, I attended the Samsung Software-AI Academy for Yout
 | **12K**                     | **Cumulative trainees** from 2018 to 2024                                              |
 
 
-## Background
+## Background - From a 0 on My First Assessment to the Top 3%
 ### Why Software Engineering?
 
 Before software engineering, I worked in **English education in Korea** and as a **cook in fast-paced professional kitchens in Canada**. Those fields looked very different on the surface, but the parts I enjoyed most were surprisingly similar: solving practical problems, improving systems, communicating clearly, and working with people under real constraints.
