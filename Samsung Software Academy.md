@@ -208,33 +208,26 @@ Students are not given any information about their team or the app/website they 
   </tr>
   <tr>
     <td><strong>10 business days</strong></td>
-    <td><strong>Planned, designed, built, and deployed</strong> the first working <strong>MVP from scratch</strong></td>
+    <td>Planned, designed, built, and deployed the first working MVP from scratch</td>
   </tr>
   <tr>
-    <td><strong>552 users</strong></td>
-    <td>Total <strong>users</strong> tracked through <strong>Google Analytics</strong></td>
+    <td><strong>552 users / 16K views</strong></td>
+    <td>Reached real users during the 4-week public usage period, tracked through Google Analytics</td>
   </tr>
   <tr>
     <td><strong>197 members</strong></td>
-    <td><strong>Registered users</strong></td>
-  </tr>
-  <tr>
-    <td><strong>16K views</strong></td>
-    <td><strong>Total page views</strong></td>
+    <td>Registered users</td>
   </tr>
   <tr>
     <td><strong>3 major-tech placements</strong></td>
     <td>3 team members later joined major tech companies in Korea</td>
   </tr>
   <tr>
-    <td><strong>2nd out of 965 trainees</strong></td>
-    <td>1 team member’s final academy graduation ranking</td>
-  </tr>
-  <tr>
-    <td><strong>Top 3% + Software Engineering Coach offer</strong></td>
-    <td>My final academy ranking and post-graduation role offer at SSAFY</td>
+    <td><strong>2nd out of 965 + Top 3% + Coach offer</strong></td>
+    <td>Team member’s final academy ranking, my own Top 3% graduation result, and post-graduation Software Engineering Coach offer</td>
   </tr>
 </table>
+
 
 ### Final Project: My Role & Responsibilities
 
@@ -283,15 +276,33 @@ This project gave me repeated practice in full-stack product delivery: defining 
 
 ### Final Project: Results
 
-| Metric | Impact |
-|---|---|
-| **10 business days** | **Planned, designed, built, and deployed** the first working **MVP from scratch** |
-| **552 users** | Total **users** tracked through **Google Analytics** |
-| **197 members** | **Registered users** |
-| **16K views** | **Total page views** |
-| **3 major-tech placements**       | 3 team members later joined major tech companies in Korea                         |
-| **2nd out of 965 trainees**       | 1 team member’s final academy graduation ranking                                  |
-| **Top 3% + Software Engineering Coach offer** | My final academy ranking and post-graduation role offer at SSAFY                  |
+<table align="center">
+  <tr>
+    <th>Metric</th>
+    <th>Impact</th>
+  </tr>
+  <tr>
+    <td><strong>10 business days</strong></td>
+    <td>Planned, designed, built, and deployed the first working MVP from scratch</td>
+  </tr>
+  <tr>
+    <td><strong>552 users / 16K views</strong></td>
+    <td>Reached real users during the 4-week public usage period, tracked through Google Analytics</td>
+  </tr>
+  <tr>
+    <td><strong>197 members</strong></td>
+    <td>Registered users</td>
+  </tr>
+  <tr>
+    <td><strong>3 major-tech placements</strong></td>
+    <td>3 team members later joined major tech companies in Korea</td>
+  </tr>
+  <tr>
+    <td><strong>2nd out of 965 + Top 3% + Coach offer</strong></td>
+    <td>Team member’s final academy ranking, my own Top 3% graduation result, and post-graduation Software Engineering Coach offer</td>
+  </tr>
+</table>
+
 
 ## After Graduation: Selected as a Software Engineering Coach at SSAFY
 
