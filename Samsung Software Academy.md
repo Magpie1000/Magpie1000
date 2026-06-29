@@ -147,9 +147,11 @@ The program was not built around passive lectures alone. It combined daily codin
 
 At a high level, the official SSAFY roadmap was structured around:
 
------
+
 <p align="center">
-<img width="928" height="456" alt="SSAFY curriculum roadmap" src="https://github.com/user-attachments/assets/c6ada1f2-0e17-4009-b6af-0152cec3792f" />
+<kbd>
+  <img width="928" height="456" alt="SSAFY curriculum roadmap" src="https://github.com/user-attachments/assets/c6ada1f2-0e17-4009-b6af-0152cec3792f" />
+</kbd>
 </p>
 
 <p align="center"> <em> Official SSAFY curriculum roadmap: foundational training, career support, advanced project-based learning, and final job fair support. </em> </p>
@@ -309,6 +311,19 @@ This project gave me repeated practice in full-stack product delivery: defining 
 After graduating in the **Top 3%** of SSAFY, I was offered a **Software Engineering Coach** role at the academy.
 
 This role allowed me to return to the same intensive training environment from the other side: not as a trainee, but as someone responsible for helping new trainees debug problems, understand programming concepts, collaborate more effectively, and build confidence during a full-time software engineering program.
+<p align="center">
+<kbd>
+<img width="1060" height="211" alt="image" src="https://github.com/user-attachments/assets/5cdeb098-cbe3-4ded-92dd-569f08117ba6" />
+</kbd>
+</p>
+
+<p align="center">
+  <em>
+    LinkedIn recommendations highlighting technical explanation, leadership, maintainable code, documentation, and teamwork.
+    See full recommendations on my <a href="https://www.linkedin.com/in/devminu/">LinkedIn profile</a>.
+  </em>
+</p>
+
 
 ### Software Engineering Coach: Role & Responsibilities
 
